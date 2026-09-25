@@ -7,8 +7,8 @@ const nextConfig: NextConfig = {
   output: 'export', // Tells Next.js to generate static files
 
   // Required: GitHub Pages handles assets via subdirectories (e.g., username.github.io/repo-name)
-  basePath: isProd ? '/abrb' : '',
-  assetPrefix: isProd ? '/abrb/' : '',
+  basePath: isProd ? '/client' : '',
+  assetPrefix: isProd ? '/client/' : '',
 
   // Required: GitHub Pages doesn't support Next.js default Image Optimization API
   images: {
