@@ -1,0 +1,128 @@
+.searchBox {
+    position: relative;
+    top: 16px;
+    left: 16px;
+    z-index: 1000;
+    width: min(380px, calc(100% - 32px));
+}
+
+.searchBox__container {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    padding: 0 12px;
+    height: 48px;
+    background: var(--mapSearch-surface);
+    border: 1px solid var(--mapSearch-line);
+    border-radius: 10px;
+    box-shadow: 0 2px 8px rgba(29, 43, 54, 0.12);
+}
+
+.searchBox__container:focus-within {
+    border-color: var(--mapSearch-accent);
+    box-shadow: 0 0 0 3px rgba(31, 111, 139, .2);
+}
+
+.searchBox__icon {
+    width: 18px;
+    height: 18px;
+    color: var(--mapSearch-muted);
+    flex-shrink: 0;
+}
+
+.searchBox__container input {
+    flex: 1;
+    min-width: 0;
+    border: 0;
+    outline: 0;
+    background: transparent;
+    font: inherit;
+    font-size: 15px;
+    color: var(--mapSearch-ink);
+}
+
+.searchBox__clearButton {
+    border: 0;
+    background: none;
+    font-size: 20px;
+    line-height: 1;
+    color: var(--mapSearch-muted);
+    cursor: pointer;
+    padding: 4px;
+    border-radius: 6px;
+}
+
+.searchBox__clearButton:hover {
+    color: var(--mapSearch-ink);
+    background: var(--mapSearch-hover);
+}
+
+.searchBox__clearButton:focus-visible {
+    outline: 2px solid var(--mapSearch-accent);
+}
+
+.searchBox__spinner {
+    width: 16px;
+    height: 16px;
+    border: 2px solid var(--mapSearch-line);
+    border-top-color: var(--mapSearch-accent);
+    border-radius: 50%;
+    animation: mapSearch-spin .7s linear infinite;
+}
+
+@keyframes mapSearch-spin {
+    to {
+        transform: rotate(360deg);
+    }
+}
+
+@media (prefers-reduced-motion: reduce) {
+    .searchBox__spinner {
+        animation-duration: 2s;
+    }
+}
+
+.searchBox__resultsList {
+    list-style: none;
+    margin: 6px 0 0;
+    padding: 4px;
+    background: var(--mapSearch-surface);
+    border: 1px solid var(--mapSearch-line);
+    border-radius: 10px;
+    box-shadow: 0 6px 20px rgba(29, 43, 54, 0.15);
+    max-height: 320px;
+    overflow-y: auto;
+}
+
+.searchBox__resultsList__item {
+    display: flex;
+    flex-direction: column;
+    gap: 2px;
+    padding: 10px 12px;
+    border-radius: 6px;
+    cursor: pointer;
+}
+
+.searchBox__resultsList__item.is-active {
+    background: var(--mapSearch-hover);
+}
+
+.searchBox__name {
+    font-size: 14px;
+    font-weight: 600;
+    color: var(--mapSearch-ink);
+}
+
+.searchBox__address {
+    font-size: 12.5px;
+    color: var(--mapSearch-muted);
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.searchBox__resultsList__noteItem {
+    padding: 12px;
+    font-size: 13.5px;
+    color: var(--mapSearch-muted);
+}

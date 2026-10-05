@@ -1,0 +1,18 @@
+/*@import './variables.css';*/
+
+* {
+  box-sizing: border-box;
+}
+
+/*body {
+  font-family: var(--primary-font-family);
+  background: var(--header-brand-gradient-light);
+  max-width: 100%;
+  width: 100%;
+}*/
+
+.App {
+  /*display: flex;
+  flex-direction: column;
+  align-items: center;*/
+}
