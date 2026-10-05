@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/abrb/static/css/main.69aae2e1.css",
+    "main.js": "/abrb/static/js/main.0c72f8b9.js",
+    "static/js/453.dd28e519.chunk.js": "/abrb/static/js/453.dd28e519.chunk.js",
+    "index.html": "/abrb/index.html",
+    "main.69aae2e1.css.map": "/abrb/static/css/main.69aae2e1.css.map",
+    "main.0c72f8b9.js.map": "/abrb/static/js/main.0c72f8b9.js.map",
+    "453.dd28e519.chunk.js.map": "/abrb/static/js/453.dd28e519.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.69aae2e1.css",
+    "static/js/main.0c72f8b9.js"
+  ]
+}
