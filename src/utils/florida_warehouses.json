@@ -1,0 +1,1202 @@
+[
+  {
+    "name": "Premier Warehouse Logistics",
+    "address": "3600 NW 114th Ave, Doral, FL 33178",
+    "latitude": 25.806905,
+    "longitude": -80.38239
+  },
+  {
+    "name": "Warehouse (NW 102nd Ave)",
+    "address": "6451 NW 102nd Ave, Doral, FL 33178",
+    "latitude": 25.83193,
+    "longitude": -80.360312
+  },
+  {
+    "name": "Warehouse Doral",
+    "address": "8068 NW 66th St, Miami, FL 33166",
+    "latitude": 25.833304,
+    "longitude": -80.328482
+  },
+  {
+    "name": "ReadySpaces Doral",
+    "address": "2900 NW 112th Ave, Doral, FL 33172",
+    "latitude": 25.801138,
+    "longitude": -80.378218
+  },
+  {
+    "name": "Miami International Commerce Center",
+    "address": "8181 NW 14th St, Doral, FL 33126",
+    "latitude": 25.786579,
+    "longitude": -80.328296
+  },
+  {
+    "name": "Palmetto Warehouses",
+    "address": "7242 NW 54th St, Miami, FL 33166",
+    "latitude": 25.822328,
+    "longitude": -80.31548
+  },
+  {
+    "name": "Medley Warehouse",
+    "address": "11440 NW 122nd St, Miami, FL 33178",
+    "latitude": 25.882125,
+    "longitude": -80.384004
+  },
+  {
+    "name": "WareSpace Medley",
+    "address": "7321 NW 75th St, Medley, FL 33166",
+    "latitude": 25.842124,
+    "longitude": -80.317648
+  },
+  {
+    "name": "Integrated Warehouse & Logistics",
+    "address": "8315 NW 74th St, Medley, FL 33166",
+    "latitude": 25.840997,
+    "longitude": -80.333146
+  },
+  {
+    "name": "Cabessa Property Medley",
+    "address": "7450 NW 74th Ave, Medley, FL 33166",
+    "latitude": 25.841896,
+    "longitude": -80.319331
+  },
+  {
+    "name": "Southern Warehouse & Cartage",
+    "address": "7210 NW 77th St, Medley, FL 33166",
+    "latitude": 25.842937,
+    "longitude": -80.314782
+  },
+  {
+    "name": "Amazon Delivery Station (Hialeah)",
+    "address": "1125 SE 8th St, Hialeah, FL 33010",
+    "latitude": 25.816835,
+    "longitude": -80.259299
+  },
+  {
+    "name": "Premier Warehouse Hialeah",
+    "address": "875 W 18th St, Hialeah, FL 33010",
+    "latitude": 25.838237,
+    "longitude": -80.299508
+  },
+  {
+    "name": "Buena Vista Warehouse",
+    "address": "1035 SE 9th Ct, Hialeah, FL 33010",
+    "latitude": 25.813746,
+    "longitude": -80.261591
+  },
+  {
+    "name": "Warehouse (NW 79th Ave)",
+    "address": "9550 NW 79th Ave, Hialeah Gardens, FL 33016",
+    "latitude": 25.861299,
+    "longitude": -80.325871
+  },
+  {
+    "name": "Warehouse (NW 119th St)",
+    "address": "9100 NW 119th St, Hialeah, FL 33018",
+    "latitude": 25.881337,
+    "longitude": -80.346685
+  },
+  {
+    "name": "Amazon MIA1 Fulfillment Center",
+    "address": "14000 NW 37th Ave, Opa-locka, FL 33054",
+    "latitude": 25.90072,
+    "longitude": -80.260859
+  },
+  {
+    "name": "S & M Transportation",
+    "address": "4100 NW 142nd St, Opa-locka, FL 33054",
+    "latitude": 25.901641,
+    "longitude": -80.264263
+  },
+  {
+    "name": "Boulevard Industrial Park",
+    "address": "1909 Opa-Locka Blvd, Opa-locka, FL 33054",
+    "latitude": 25.898462,
+    "longitude": -80.23183
+  },
+  {
+    "name": "UPS Warehouse Miami Gardens",
+    "address": "21201 NW 43rd Ave, Miami Gardens, FL 33055",
+    "latitude": 25.963283,
+    "longitude": -80.270823
+  },
+  {
+    "name": "Tampa Warehouse & Transload (N 39th St)",
+    "address": "1601 N 39th St, Tampa, FL 33605",
+    "latitude": 27.957713,
+    "longitude": -82.414666
+  },
+  {
+    "name": "Tampa Warehouse and Transload (N 28th St)",
+    "address": "1120 N 28th St, Tampa, FL 33605",
+    "latitude": 27.953909,
+    "longitude": -82.428336
+  },
+  {
+    "name": "Warehousing Etc",
+    "address": "3719 Corporex Park Dr #50, Tampa, FL 33619",
+    "latitude": 27.974559,
+    "longitude": -82.379236
+  },
+  {
+    "name": "Buske Logistics",
+    "address": "7918 Harney Rd, Tampa, FL 33637",
+    "latitude": 28.028916,
+    "longitude": -82.361495
+  },
+  {
+    "name": "BJ's Jacksonville Distribution Center",
+    "address": "4500 Director Rd, Jacksonville, FL 32220",
+    "latitude": 30.37288,
+    "longitude": -81.822095
+  },
+  {
+    "name": "Coach Distribution Center",
+    "address": "1 Coach Way, Jacksonville, FL 32218",
+    "latitude": 30.475509,
+    "longitude": -81.658642
+  },
+  {
+    "name": "Terminal Warehouse Company",
+    "address": "11801 Industry Dr, Jacksonville, FL 32218",
+    "latitude": 30.450699,
+    "longitude": -81.626255
+  },
+  {
+    "name": "WeShareSpace Warehouse",
+    "address": "5107 University Blvd W, Jacksonville, FL 32216",
+    "latitude": 30.268358,
+    "longitude": -81.616459
+  },
+  {
+    "name": "Amazon JAX7",
+    "address": "10501 Cold Storage Rd, Jacksonville, FL 32218",
+    "latitude": 30.423367,
+    "longitude": -81.623401
+  },
+  {
+    "name": "WareSpace Fort Lauderdale",
+    "address": "700 NW 57th Ct, Fort Lauderdale, FL 33309",
+    "latitude": 26.199125,
+    "longitude": -80.151615
+  },
+  {
+    "name": "Chiquita Warehouse",
+    "address": "3403 McIntosh Rd, Fort Lauderdale, FL 33316",
+    "latitude": 26.079345,
+    "longitude": -80.125324
+  },
+  {
+    "name": "ASAP Warehouse",
+    "address": "3030 SW 42nd St, Fort Lauderdale, FL 33312",
+    "latitude": 26.068983,
+    "longitude": -80.184841
+  },
+  {
+    "name": "Warehouse Flex & Storage",
+    "address": "1550 Latham Rd Ste 8, West Palm Beach, FL 33409",
+    "latitude": 26.699626,
+    "longitude": -80.082157
+  },
+  {
+    "name": "Soso District Warehouse",
+    "address": "5212 S Dixie Hwy, West Palm Beach, FL 33405",
+    "latitude": 26.666184,
+    "longitude": -80.055112
+  },
+  {
+    "name": "Riviera Amazon Warehouse",
+    "address": "1301 President Barack Obama Hwy, Riviera Beach, FL 33404",
+    "latitude": 26.774092,
+    "longitude": -80.064653
+  },
+  {
+    "name": "Amazon Fulfillment Lakeland",
+    "address": "1760 County Line Rd, Lakeland, FL 33811",
+    "latitude": 28.020195,
+    "longitude": -82.053743
+  },
+  {
+    "name": "Publix DC Dry Warehouse",
+    "address": "2600 County Line Rd, Lakeland, FL 33811",
+    "latitude": 28.01408,
+    "longitude": -82.050042
+  },
+  {
+    "name": "Walmart Warehouse Lakeland",
+    "address": "6800 FL-33, Lakeland, FL 33805",
+    "latitude": 28.131366,
+    "longitude": -81.904101
+  },
+  {
+    "name": "Quaker Distribution Warehouse",
+    "address": "8054 State Rd 33 N, Lakeland, FL 33809",
+    "latitude": 28.152999,
+    "longitude": -81.893031
+  },
+  {
+    "name": "FedEx Ground Ocala",
+    "address": "3100 NW 35th Ave Rd, Ocala, FL 34475",
+    "latitude": 29.216756,
+    "longitude": -82.181463
+  },
+  {
+    "name": "Chewy Fulfillment Center MCO1",
+    "address": "3380 NW 35th Ave Rd, Ocala, FL 34475",
+    "latitude": 29.223835,
+    "longitude": -82.180325
+  },
+  {
+    "name": "AutoZone Distribution Center",
+    "address": "3321 NW 35th Ave Rd, Ocala, FL 34475",
+    "latitude": 29.221934,
+    "longitude": -82.17451
+  },
+  {
+    "name": "Amazon TPA6 Fulfillment",
+    "address": "3400 NW 35th St Rd, Ocala, FL 34475",
+    "latitude": 29.226881,
+    "longitude": -82.18202
+  },
+  {
+    "name": "Pro Business Centers Ocala",
+    "address": "4378 NE 35th St, Ocala, FL 34479",
+    "latitude": 29.221437,
+    "longitude": -82.0757
+  },
+  {
+    "name": "Publix Distribution Center",
+    "address": "1950 W Sand Lake Rd, Orlando, FL 32809",
+    "latitude": 28.449415,
+    "longitude": -81.405991
+  },
+  {
+    "name": "Publix Warehousing & Distribution Orlando",
+    "address": "7350 Hazeltine National Dr, Orlando, FL 32822",
+    "latitude": 28.456145,
+    "longitude": -81.281628
+  },
+  {
+    "name": "Martin Brower Distribution Center",
+    "address": "151 Martin Brower Rd, Orlando, FL 32824",
+    "latitude": 28.36924,
+    "longitude": -81.373827
+  },
+  {
+    "name": "CVS Caremark Distribution Center",
+    "address": "8525 Exchange Dr, Orlando, FL 32809",
+    "latitude": 28.441522,
+    "longitude": -81.411239
+  },
+  {
+    "name": "Ocean Blue Logistics, Inc",
+    "address": "8825 Boggy Creek Rd, Orlando, FL 32824",
+    "latitude": 28.439369,
+    "longitude": -81.347673
+  },
+  {
+    "name": "Portal Warehousing",
+    "address": "4121 34th St, Orlando, FL 32811",
+    "latitude": 28.506519,
+    "longitude": -81.429444
+  },
+  {
+    "name": "Mako Freight - Warehousing - 3PL - Logistics",
+    "address": "1401 Tradeport Dr #100, Orlando, FL 32824",
+    "latitude": 28.417147,
+    "longitude": -81.362814
+  },
+  {
+    "name": "Titan Commercial Warehouse",
+    "address": "2900 Titan Row #142, Orlando, FL 32809",
+    "latitude": 28.457445,
+    "longitude": -81.42405
+  },
+  {
+    "name": "PTI Logistics Inc.",
+    "address": "2487 Tradeport Dr Suite 800, Orlando, FL 32824",
+    "latitude": 28.411619,
+    "longitude": -81.349601
+  },
+  {
+    "name": "Amazon Fulfillment Center TLH2",
+    "address": "2635 Vineland Dr, Tallahassee, FL 32308",
+    "latitude": 30.489453,
+    "longitude": -84.169105
+  },
+  {
+    "name": "WFL2-AMAZON Warehouse Tallahassee",
+    "address": "3799 NW Psge, Tallahassee, FL 32303",
+    "latitude": 30.468885,
+    "longitude": -84.36622
+  },
+  {
+    "name": "Abeka Distribution Center",
+    "address": "5414 Rawson Ln, Pensacola, FL 32503",
+    "latitude": 30.475907,
+    "longitude": -87.230287
+  },
+  {
+    "name": "Amazon Warehouse (HMB1)",
+    "address": "8792 Ely Rd, Pensacola, FL 32514",
+    "latitude": 30.523507,
+    "longitude": -87.200696
+  },
+  {
+    "name": "First Nation Group Distribution Center",
+    "address": "11901 Amedicus Ln Unit B, Fort Myers, FL 33907",
+    "latitude": 26.56694,
+    "longitude": -81.861449
+  },
+  {
+    "name": "The Home Depot Distribution Center",
+    "address": "9377 Laredo Ave Bldg 8, Fort Myers, FL 33905",
+    "latitude": 26.651914,
+    "longitude": -81.801255
+  },
+  {
+    "name": "The Home Depot Distribution Center",
+    "address": "12180 Metro Pkwy, Fort Myers, FL 33966",
+    "latitude": 26.565293,
+    "longitude": -81.85384
+  },
+  {
+    "name": "PepsiCo",
+    "address": "16121 Premiere Airport Parkway, Fort Myers, FL 33913",
+    "latitude": 26.510217,
+    "longitude": -81.762836
+  },
+  {
+    "name": "UNFI Sarasota North",
+    "address": "8380 21st St E, Sarasota, FL 34243",
+    "latitude": 27.391664,
+    "longitude": -82.54089
+  },
+  {
+    "name": "FL, Publix Supermarkets DC",
+    "address": "6199 Sawyer Rd, Sarasota, FL 34238",
+    "latitude": 27.264402,
+    "longitude": -82.488011
+  },
+  {
+    "name": "DFL3 - Amazon Delivery Station (Gainesville)",
+    "address": "2121 NW 67th Pl, Gainesville, FL 32653",
+    "latitude": 29.715235,
+    "longitude": -82.351804
+  },
+  {
+    "name": "Nordstrom DC 799",
+    "address": "5497 NE 49 Terrace, Gainesville, FL 32609",
+    "latitude": 29.704339,
+    "longitude": -82.264092
+  },
+  {
+    "name": "Costco Distribution Center",
+    "address": "13061 SW Anthony F. Sansone Sr. Blvd, Port St. Lucie, FL 34953",
+    "latitude": 27.226217,
+    "longitude": -80.407671
+  },
+  {
+    "name": "St Lucie Warehouse Complex",
+    "address": "1600 SE Village Green Dr, Port St. Lucie, FL 34952",
+    "latitude": 27.305208,
+    "longitude": -80.302562
+  },
+  {
+    "name": "Amazon Warehouse",
+    "address": "13450 Anthony F Sansone Sr Blvd, Port St. Lucie, FL 34953",
+    "latitude": 27.218845,
+    "longitude": -80.40842
+  },
+  {
+    "name": "Amazon Warehouse DFM4",
+    "address": "8760 Davis Blvd, Naples, FL 34104",
+    "latitude": 26.153173,
+    "longitude": -81.689099
+  },
+  {
+    "name": "General Warehouse",
+    "address": "1701 Gulfstar Dr S, Naples, FL 34112",
+    "latitude": 26.104055,
+    "longitude": -81.782143
+  },
+  {
+    "name": "Network Distribution Center",
+    "address": "7415 Commonwealth Ave, Jacksonville, FL 32099",
+    "latitude": 30.338968,
+    "longitude": -81.768913
+  },
+  {
+    "name": "Amazon Distribution Center",
+    "address": "12900 Pecan Park Rd, Jacksonville, FL 32218",
+    "latitude": 30.46379,
+    "longitude": -81.679708
+  },
+  {
+    "name": "Publix Distribution Center",
+    "address": "9786 W Beaver St, Jacksonville, FL 32220",
+    "latitude": 30.316796,
+    "longitude": -81.818713
+  },
+  {
+    "name": "Tampa Bay Times Distribution Center",
+    "address": "4876 W Sligh Ave, Tampa, FL 33634",
+    "latitude": 28.010385,
+    "longitude": -82.527336
+  },
+  {
+    "name": "Gulf Central Distribution Center",
+    "address": "4535 S Dale Mabry Hwy, Tampa, FL 33611",
+    "latitude": 27.900437,
+    "longitude": -82.506936
+  },
+  {
+    "name": "Work C&S/Winn-Dixie Distribution Center",
+    "address": "1802 Jim Johnson Rd, Plant City, FL 33566",
+    "latitude": 27.992565,
+    "longitude": -82.103566
+  },
+  {
+    "name": "The Home Depot Distribution Center",
+    "address": "1911 S Wiggins Rd, Plant City, FL 33566",
+    "latitude": 27.995254,
+    "longitude": -82.065262
+  },
+  {
+    "name": "ACE Distribution Center",
+    "address": "791 County Line Rd, Plant City, FL 33566",
+    "latitude": 28.012281,
+    "longitude": -82.056831
+  },
+  {
+    "name": "Save-A-Lot Distribution Center",
+    "address": "4003 Amberjack Blvd, Plant City, FL 33566",
+    "latitude": 28.019761,
+    "longitude": -82.061314
+  },
+  {
+    "name": "Tesla warehouse",
+    "address": "611 Charlie Taylor Rd, Plant City, FL 33566",
+    "latitude": 28.03176,
+    "longitude": -82.072252
+  },
+  {
+    "name": "Sam's Club Wholesale Fulfillment Center",
+    "address": "11700 Miramar Pkwy, Miramar, FL 33025",
+    "latitude": 25.975611,
+    "longitude": -80.301755
+  },
+  {
+    "name": "SFL9 Amazon warehouse",
+    "address": "3701 Flamingo Rd, Miramar, FL 33027",
+    "latitude": 25.972819,
+    "longitude": -80.310158
+  },
+  {
+    "name": "Tommy Hilfiger Warehouse",
+    "address": "2829 N Commerce Pkwy, Miramar, FL 33025",
+    "latitude": 25.983408,
+    "longitude": -80.279854
+  },
+  {
+    "name": "Martin Brower Distribution Center",
+    "address": "1661 NW 12th Ave, Pompano Beach, FL 33069",
+    "latitude": 26.251004,
+    "longitude": -80.1388
+  },
+  {
+    "name": "The Home Depot Distribution Center",
+    "address": "2900 N Andrews Ave Ext, Pompano Beach, FL 33064",
+    "latitude": 26.26605,
+    "longitude": -80.138028
+  },
+  {
+    "name": "UNFI",
+    "address": "1141 SW 12th Ave, Pompano Beach, FL 33069",
+    "latitude": 26.214717,
+    "longitude": -80.141917
+  },
+  {
+    "name": "DMF3 - Amazon Pompano",
+    "address": "2800 N Andrews Ave Ext, Pompano Beach, FL 33064",
+    "latitude": 26.263917,
+    "longitude": -80.137825
+  },
+  {
+    "name": "Whole Foods Warehouse",
+    "address": "2700 NW 19th St, Pompano Beach, FL 33069",
+    "latitude": 26.254047,
+    "longitude": -80.163442
+  },
+  {
+    "name": "The Home Depot Distribution Center",
+    "address": "490 Harvest Time Dr, Sanford, FL 32771",
+    "latitude": 28.819639,
+    "longitude": -81.311339
+  },
+  {
+    "name": "DC-5 Warehouse",
+    "address": "711 N Hoagland Blvd, Kissimmee, FL 34741",
+    "latitude": 28.298371,
+    "longitude": -81.44629
+  },
+  {
+    "name": "Orion Fulfillment Center",
+    "address": "1130 Greenskeep Dr Unit D, Kissimmee, FL 34741",
+    "latitude": 28.276561,
+    "longitude": -81.445982
+  },
+  {
+    "name": "Lowe's Distribution Center",
+    "address": "2651 Ham Brown Rd, Kissimmee, FL 34746",
+    "latitude": 28.220152,
+    "longitude": -81.460169
+  },
+  {
+    "name": "Walmart Distribution",
+    "address": "1330 Lucerne Loop Rd NE, Winter Haven, FL 33881",
+    "latitude": 28.072742,
+    "longitude": -81.681434
+  },
+  {
+    "name": "Sherwin-Williams Florida Distribution Center",
+    "address": "400 Bert Schulz Blvd, Winter Haven, FL 33881",
+    "latitude": 28.073985,
+    "longitude": -81.698949
+  },
+  {
+    "name": "Amazon DFH3",
+    "address": "3700 Sarno Rd, Melbourne, FL 32934",
+    "latitude": 28.122808,
+    "longitude": -80.685933
+  },
+  {
+    "name": "Erco Services Fulfillment & Logistics",
+    "address": "4045 Dow Rd #103, Melbourne, FL 32934",
+    "latitude": 28.107154,
+    "longitude": -80.694357
+  },
+  {
+    "name": "Warehouses",
+    "address": "7800 Industrial Rd, West Melbourne, FL 32904",
+    "latitude": 28.098071,
+    "longitude": -80.679412
+  },
+  {
+    "name": "Health First Distribution Center",
+    "address": "7195 Waelti Dr, Melbourne, FL 32940",
+    "latitude": 28.231188,
+    "longitude": -80.678726
+  },
+  {
+    "name": "Florida Warehousing and Storage",
+    "address": "7825 Ellis Rd Unit b, Melbourne, FL 32904",
+    "latitude": 28.098732,
+    "longitude": -80.68494
+  },
+  {
+    "name": "Pompano Warehouse",
+    "address": "319 SW 14th Ave, Pompano Beach, FL 33069",
+    "latitude": 26.225993,
+    "longitude": -80.141921
+  },
+  {
+    "name": "ShipJoy 3PL Warehouse & Fulfillment Miami",
+    "address": "11500 Miramar Pkwy #300, Miramar, FL 33025",
+    "latitude": 25.976776,
+    "longitude": -80.300128
+  },
+  {
+    "name": "UPS Distribution Center",
+    "address": "2420 Avenue R, Riviera Beach, FL 33404",
+    "latitude": 26.779206,
+    "longitude": -80.077497
+  },
+  {
+    "name": "Riviera beach warehouse",
+    "address": "1402 W 13th St, Riviera Beach, FL 33404",
+    "latitude": 26.774453,
+    "longitude": -80.074971
+  },
+  {
+    "name": "Warehouse Six",
+    "address": "1160 W 13th St Ste 6, Riviera Beach, FL 33404",
+    "latitude": 26.774185,
+    "longitude": -80.070236
+  },
+  {
+    "name": "Publix Distribution Center",
+    "address": "777 SW 12th Ave, Deerfield Beach, FL 33442",
+    "latitude": 26.307941,
+    "longitude": -80.123367
+  },
+  {
+    "name": "Amazon DVB4",
+    "address": "1111 SW 30th Ave, Deerfield Beach, FL 33442",
+    "latitude": 26.300918,
+    "longitude": -80.145653
+  },
+  {
+    "name": "Hiatus Business & Storage Center",
+    "address": "4652 Hiatus Rd, Sunrise, FL 33351",
+    "latitude": 26.183037,
+    "longitude": -80.289708
+  },
+  {
+    "name": "VFL3/SFL3 - Amazon Tamarac",
+    "address": "6901 Hiatus Rd, Tamarac, FL 33321",
+    "latitude": 26.207211,
+    "longitude": -80.291862
+  },
+  {
+    "name": "Davie United Warehouses",
+    "address": "4350 SW 59th Ave # A, Davie, FL 33314",
+    "latitude": 26.067779,
+    "longitude": -80.22456
+  },
+  {
+    "name": "Versatile Warehousing",
+    "address": "4701 Orange Dr, Davie, FL 33314",
+    "latitude": 26.066572,
+    "longitude": -80.210293
+  },
+  {
+    "name": "DMO6 Amazon",
+    "address": "700 Banyan Trail, Boca Raton, FL 33431",
+    "latitude": 26.377326,
+    "longitude": -80.117081
+  },
+  {
+    "name": "US Foods",
+    "address": "7598 NW 6th Ave, Boca Raton, FL 33487",
+    "latitude": 26.413679,
+    "longitude": -80.092091
+  },
+  {
+    "name": "Clearwater 19 Commerce Center",
+    "address": "22067 US Hwy 19 N, Clearwater, FL 33765",
+    "latitude": 27.97252,
+    "longitude": -82.727678
+  },
+  {
+    "name": "NXTPoint Logistics",
+    "address": "1700 Tradeport Dr, Orlando, FL 32824",
+    "latitude": 28.415914,
+    "longitude": -81.358364
+  },
+  {
+    "name": "TCB Global",
+    "address": "6843 Conway Rd #140, Orlando, FL 32812",
+    "latitude": 28.463832,
+    "longitude": -81.328966
+  },
+  {
+    "name": "Lincoln Distribution",
+    "address": "6507 Harney Rd, Tampa, FL 33610",
+    "latitude": 28.004776,
+    "longitude": -82.379019
+  },
+  {
+    "name": "Fulfillment and Warehousing Service",
+    "address": "4619 N Hesperides St Suite A, Tampa, FL 33614",
+    "latitude": 27.985902,
+    "longitude": -82.518918
+  },
+  {
+    "name": "Jax3pl",
+    "address": "155 Tresca Rd, Jacksonville, FL 32225",
+    "latitude": 30.325282,
+    "longitude": -81.538252
+  },
+  {
+    "name": "NXTPoint Logistics",
+    "address": "9601 N Main St Dr, Jacksonville, FL 32218",
+    "latitude": 30.413484,
+    "longitude": -81.648753
+  },
+  {
+    "name": "On-Demand Warehousing and Fulfillment",
+    "address": "4345 Perimeter Industrial Pkwy N Suite 3, Jacksonville, FL 32219",
+    "latitude": 30.37655,
+    "longitude": -81.756495
+  },
+  {
+    "name": "Biagi Bros.",
+    "address": "2001 Ellis Rd N, Jacksonville, FL 32254",
+    "latitude": 30.347864,
+    "longitude": -81.742784
+  },
+  {
+    "name": "NXTPoint Logistics",
+    "address": "11001 Pritchard Rd, Jacksonville, FL 32219",
+    "latitude": 30.372891,
+    "longitude": -81.83477
+  },
+  {
+    "name": "Walmart Distribution Center",
+    "address": "5100 Kettering Rd, Brooksville, FL 34602",
+    "latitude": 28.503425,
+    "longitude": -82.216898
+  },
+  {
+    "name": "Hale Avenue Warehouse, LLC.",
+    "address": "969 Hale Ave, Brooksville, FL 34601",
+    "latitude": 28.544237,
+    "longitude": -82.391826
+  },
+  {
+    "name": "Acme Med-nap Warehouse",
+    "address": "27 W Dr Martin Luther King Jr Blvd, Brooksville, FL 34601",
+    "latitude": 28.545831,
+    "longitude": -82.387464
+  },
+  {
+    "name": "Linea Peninsular Warehouse",
+    "address": "1759 A Avenue Port of Panama City, Panama City, FL 32401",
+    "latitude": 30.181154,
+    "longitude": -85.726912
+  },
+  {
+    "name": "Titan supply group Panama City Warehouse",
+    "address": "1847 Industrial Dr, Panama City, FL 32405",
+    "latitude": 30.186783,
+    "longitude": -85.642394
+  },
+  {
+    "name": "OFL9 Amazon Distribution Center",
+    "address": "3171 NW 44th Ave, Ocala, FL 34482",
+    "latitude": 29.221129,
+    "longitude": -82.191735
+  },
+  {
+    "name": "SCF2 Amazon Distribution Center Ocala",
+    "address": "2489 NW 35th Avenue, Road, Ocala, FL 34475",
+    "latitude": 29.209903,
+    "longitude": -82.178223
+  },
+  {
+    "name": "Havertys Distribution Center",
+    "address": "7100 Havertys Way, Lakeland, FL 33805",
+    "latitude": 28.133247,
+    "longitude": -81.909675
+  },
+  {
+    "name": "CWI Logistics",
+    "address": "420 Progress Rd, Auburndale, FL 33823",
+    "latitude": 28.070215,
+    "longitude": -81.777137
+  },
+  {
+    "name": "Amazon TPA3 Warehouse",
+    "address": "676 C. Fred Jones Blvd, Auburndale, FL 33823",
+    "latitude": 28.152922,
+    "longitude": -81.813868
+  },
+  {
+    "name": "CWI Logistics",
+    "address": "615 McKean St, Auburndale, FL 33823",
+    "latitude": 28.05827,
+    "longitude": -81.796861
+  },
+  {
+    "name": "Commercial Warehousing, Inc.",
+    "address": "350 Progress Rd, Auburndale, FL 33823",
+    "latitude": 28.070232,
+    "longitude": -81.779167
+  },
+  {
+    "name": "ALDI Distribution Center",
+    "address": "2651 FL-17, Haines City, FL 33844",
+    "latitude": 28.071562,
+    "longitude": -81.615838
+  },
+  {
+    "name": "DFL8 Amazon Distribution Center",
+    "address": "7453 Republic Dr, Groveland, FL 34736",
+    "latitude": 28.633652,
+    "longitude": -81.832006
+  },
+  {
+    "name": "Domino's Pizza Distribution Center",
+    "address": "7600 American Way, Groveland, FL 34736",
+    "latitude": 28.636624,
+    "longitude": -81.82822
+  },
+  {
+    "name": "National DCP LLC/Dunkin Donuts Distribution Center",
+    "address": "20100 Independence Blvd, Groveland, FL 34736",
+    "latitude": 28.639368,
+    "longitude": -81.829436
+  },
+  {
+    "name": "Walmart Distribution Center",
+    "address": "4009 S Jenkins Rd, Fort Pierce, FL 34981",
+    "latitude": 27.395175,
+    "longitude": -80.389221
+  },
+  {
+    "name": "Port Manatee Commerce Center",
+    "address": "2300 S Dock St Suite 105, Palmetto, FL 34221",
+    "latitude": 27.632785,
+    "longitude": -82.540904
+  },
+  {
+    "name": "ABC Supply New Warehouse",
+    "address": "810 17th St E, Palmetto, FL 34221",
+    "latitude": 27.530445,
+    "longitude": -82.554995
+  },
+  {
+    "name": "North Port Warehouse",
+    "address": "4961 Plantation Blvd, North Port, FL 34289",
+    "latitude": 27.092323,
+    "longitude": -82.154554
+  },
+  {
+    "name": "Warehouse and storage",
+    "address": "1030 US-41 BYP, Venice, FL 34285",
+    "latitude": 27.086984,
+    "longitude": -82.430621
+  },
+  {
+    "name": "Target Distribution Center",
+    "address": "3049 North US-441, Lake City, FL 32055",
+    "latitude": 30.232572,
+    "longitude": -82.635787
+  },
+  {
+    "name": "Columbia Consolidated Warehouse",
+    "address": "3719 US-90, Lake City, FL 32055",
+    "latitude": 30.189462,
+    "longitude": -82.576636
+  },
+  {
+    "name": "United States Cold Storage",
+    "address": "211 McCloskey Ave, Lake City, FL 32055",
+    "latitude": 30.191026,
+    "longitude": -82.567205
+  },
+  {
+    "name": "Target Corporation",
+    "address": "309 NE Tammy Ln, Lake City, FL 32055",
+    "latitude": 30.229423,
+    "longitude": -82.635172
+  },
+  {
+    "name": "Wal-Mart Distribution Center #8851",
+    "address": "4505 FL-524, Cocoa, FL 32926",
+    "latitude": 28.377523,
+    "longitude": -80.796447
+  },
+  {
+    "name": "Amazon MLB1",
+    "address": "3655 Grissom Pkwy, Cocoa, FL 32926",
+    "latitude": 28.412714,
+    "longitude": -80.784906
+  },
+  {
+    "name": "Cocoa Warehouse and Storage",
+    "address": "1520 Peachtree St, Cocoa, FL 32922",
+    "latitude": 28.358055,
+    "longitude": -80.753777
+  },
+  {
+    "name": "Palm Coast Storage /Palm Coast Flex Space & Mini-Warehouse",
+    "address": "14 Utility Dr, Palm Coast, FL 32137",
+    "latitude": 29.547547,
+    "longitude": -81.210223
+  },
+  {
+    "name": "DFL5 Amazon Warehouse",
+    "address": "3000 Shelby Industrial Dr, Apopka, FL 32703",
+    "latitude": 28.68991,
+    "longitude": -81.564063
+  },
+  {
+    "name": "Apopka Logistics Center",
+    "address": "3102 Shelby Industrial Dr, Apopka, FL 32703",
+    "latitude": 28.682675,
+    "longitude": -81.56097
+  },
+  {
+    "name": "Amazon Fulfillment Center",
+    "address": "4661 Apopka Logistics Pkwy, Apopka, FL 32712",
+    "latitude": 28.70885,
+    "longitude": -81.589882
+  },
+  {
+    "name": "Florida Hospital Warehouse",
+    "address": "2135 Sprint Blvd, Apopka, FL 32703",
+    "latitude": 28.645162,
+    "longitude": -81.464336
+  },
+  {
+    "name": "Lineage Logistics Jacksonville West",
+    "address": "5459 Doolittle Rd, Jacksonville, FL 32254",
+    "latitude": 30.328995,
+    "longitude": -81.741367
+  },
+  {
+    "name": "Wagner Logistics",
+    "address": "8015 Westside Industrial Dr, Jacksonville, FL 32219",
+    "latitude": 30.374799,
+    "longitude": -81.783232
+  },
+  {
+    "name": "Crossdock 24/7 Jacksonville",
+    "address": "680 Edgewood Ave N Suite B, Jacksonville, FL 32254",
+    "latitude": 30.330067,
+    "longitude": -81.733873
+  },
+  {
+    "name": "Gemini Logistics of North Florida/ Gemini Logistics / Gemini Warehouse, Inc.",
+    "address": "8535 Posey Rd, Jacksonville, FL 32220",
+    "latitude": 30.319287,
+    "longitude": -81.794421
+  },
+  {
+    "name": "Industry West Warehouse",
+    "address": "4660 POW-MIA Memorial Pkwy #100, Jacksonville, FL 32221",
+    "latitude": 30.272596,
+    "longitude": -81.886082
+  },
+  {
+    "name": "Hillsborough County Schools Logistics Warehouse",
+    "address": "5715 E Hanna Ave, Tampa, FL 33610",
+    "latitude": 28.002065,
+    "longitude": -82.39112
+  },
+  {
+    "name": "Prologis Airport Distribution Center North",
+    "address": "7297 Conway Rd #700, Orlando, FL 32812",
+    "latitude": 28.46144,
+    "longitude": -81.329799
+  },
+  {
+    "name": "Amazon Fulfillment Center MCO1",
+    "address": "12340 Boggy Creek Rd, Orlando, FL 32824",
+    "latitude": 28.38421,
+    "longitude": -81.316429
+  },
+  {
+    "name": "Central Florida Freezer",
+    "address": "1801 Bradford Ave, Leesburg, FL 34748",
+    "latitude": 28.819528,
+    "longitude": -81.892411
+  },
+  {
+    "name": "Vertical Cold Storage",
+    "address": "11801 NW 102nd Rd, Medley, FL 33178",
+    "latitude": 25.874456,
+    "longitude": -80.36784
+  },
+  {
+    "name": "International Cold Storage",
+    "address": "3775 NW 31st Ave, Oakland Park, FL 33309",
+    "latitude": 26.172511,
+    "longitude": -80.187627
+  },
+  {
+    "name": "Lakeland Fulfillment Center",
+    "address": "1110 County Line Rd, Lakeland, FL 33815",
+    "latitude": 28.028609,
+    "longitude": -82.053823
+  },
+  {
+    "name": "International Warehouse Services (IWS)",
+    "address": "3423 McIntosh Rd, Fort Lauderdale, FL 33316",
+    "latitude": 26.076762,
+    "longitude": -80.124734
+  },
+  {
+    "name": "Challenge Warehousing Inc",
+    "address": "1900 NE 7th Ave Suite A, Dania Beach, FL 33004",
+    "latitude": 26.072984,
+    "longitude": -80.130789
+  },
+  {
+    "name": "Delivery and Warehousing Solutions",
+    "address": "1601 Hill Ave Suite D, West Palm Beach, FL 33407",
+    "latitude": 26.763431,
+    "longitude": -80.075845
+  },
+  {
+    "name": "Amazon Warehouse - DMI7",
+    "address": "6711 Belvedere Rd, West Palm Beach, FL 33413",
+    "latitude": 26.695,
+    "longitude": -80.146766
+  },
+  {
+    "name": "RNDC Warehouse",
+    "address": "257 Amber St, Pensacola, FL 32503",
+    "latitude": 30.466249,
+    "longitude": -87.231152
+  },
+  {
+    "name": "Global Logistics of NW Florida, LLC",
+    "address": "2400 W Michigan Ave #25, Pensacola, FL 32526",
+    "latitude": 30.461202,
+    "longitude": -87.281924
+  },
+  {
+    "name": "FPL General Warehouse",
+    "address": "55 N Q St, Pensacola, FL 32505",
+    "latitude": 30.413561,
+    "longitude": -87.244263
+  },
+  {
+    "name": "ADL Tallahassee",
+    "address": "231 E Palmer Ave, Tallahassee, FL 32301",
+    "latitude": 30.426749,
+    "longitude": -84.279587
+  },
+  {
+    "name": "FedEx Ground",
+    "address": "2058 Summit Lake Dr, Tallahassee, FL 32317",
+    "latitude": 30.481668,
+    "longitude": -84.149218
+  },
+  {
+    "name": "Vantage Logistics, LLC",
+    "address": "16361 Innovation Ln, Fort Myers, FL 33913",
+    "latitude": 26.495208,
+    "longitude": -81.752074
+  },
+  {
+    "name": "Ablin Logistics, Inc.",
+    "address": "13720 Jetport Commerce Pkwy #9, Fort Myers, FL 33913",
+    "latitude": 26.54435,
+    "longitude": -81.789254
+  },
+  {
+    "name": "Gulfcoast Transportation Systems",
+    "address": "3440 Canal St, Fort Myers, FL 33916",
+    "latitude": 26.626379,
+    "longitude": -81.842642
+  },
+  {
+    "name": "Ralph's Transfer",
+    "address": "3991 Sivan Rd, Fort Myers, FL 33916",
+    "latitude": 26.614226,
+    "longitude": -81.850281
+  },
+  {
+    "name": "Amazon Logistics / Amazon Home Delivery DFM5",
+    "address": "2200 Tallevast Rd, Sarasota, FL 34243",
+    "latitude": 27.402562,
+    "longitude": -82.536394
+  },
+  {
+    "name": "Berry Plastics Warehouse Shipping/Receiving",
+    "address": "7911 25th Ct E, Sarasota, FL 34243",
+    "latitude": 27.398136,
+    "longitude": -82.53107
+  },
+  {
+    "name": "All Star Warehouses",
+    "address": "3900 N Washington Blvd, Sarasota, FL 34234",
+    "latitude": 27.368316,
+    "longitude": -82.530209
+  },
+  {
+    "name": "Walmart Distribution Center",
+    "address": "5100 N Ridge Trail, Davenport, FL 33897",
+    "latitude": 28.238333,
+    "longitude": -81.660778
+  },
+  {
+    "name": "Walmart DC 8905/7544",
+    "address": "4900 N Ridge Trail, Davenport, FL 33897",
+    "latitude": 28.231019,
+    "longitude": -81.661066
+  },
+  {
+    "name": "Amazon MCO5",
+    "address": "305 Deen Still Rd, Davenport, FL 33897",
+    "latitude": 28.251396,
+    "longitude": -81.662669
+  },
+  {
+    "name": "Home Depot Flatbed Distribution Center #5856",
+    "address": "6995 US-41, Apollo Beach, FL 33572",
+    "latitude": 27.788196,
+    "longitude": -82.382332
+  },
+  {
+    "name": "Warehouse C",
+    "address": "3350 Laurel Ridge Ave, Ruskin, FL 33570",
+    "latitude": 27.72748,
+    "longitude": -82.38806
+  },
+  {
+    "name": "Baker Distributing Company",
+    "address": "930 Thomas Ave #4, Leesburg, FL 34748",
+    "latitude": 28.823529,
+    "longitude": -81.90323
+  },
+  {
+    "name": "Buena Vista Warehouse",
+    "address": "1320 Buena Vista Ave, Leesburg, FL 34748",
+    "latitude": 28.804375,
+    "longitude": -81.887059
+  },
+  {
+    "name": "Warehouse for Babette's",
+    "address": "1904 Greenleaf Ln, Leesburg, FL 34748",
+    "latitude": 28.838357,
+    "longitude": -81.899842
+  },
+  {
+    "name": "Bauducco Foods",
+    "address": "40334 6th Ave, Zephyrhills, FL 33542",
+    "latitude": 28.235102,
+    "longitude": -82.149243
+  },
+  {
+    "name": "BlueTriton Brands - Zephyrhills",
+    "address": "4330 20th St, Zephyrhills, FL 33542",
+    "latitude": 28.22142,
+    "longitude": -82.169235
+  },
+  {
+    "name": "Big Brother Wholesale",
+    "address": "4904 Allen Rd, Zephyrhills, FL 33541",
+    "latitude": 28.228629,
+    "longitude": -82.203706
+  },
+  {
+    "name": "Pasco Business Center",
+    "address": "39011 Co Rd 54, Zephyrhills, FL 33542",
+    "latitude": 28.252353,
+    "longitude": -82.170679
+  },
+  {
+    "name": "Target Distribution Center",
+    "address": "3811 W 108th St, Hialeah, FL 33018",
+    "latitude": 25.920737,
+    "longitude": -80.362022
+  },
+  {
+    "name": "The Home Depot Distribution Center",
+    "address": "4040 W 108th St, Hialeah, FL 33018",
+    "latitude": 25.920094,
+    "longitude": -80.368562
+  },
+  {
+    "name": "Logistics Plus, Inc.",
+    "address": "9575 NW 174th St, Miami Lakes, FL 33018",
+    "latitude": 25.931713,
+    "longitude": -80.355773
+  },
+  {
+    "name": "The Home Depot Distribution Center",
+    "address": "6043 Southern Blvd Bldg 3, West Palm Beach, FL 33413",
+    "latitude": 26.679375,
+    "longitude": -80.138007
+  },
+  {
+    "name": "FedEx Distribution Center",
+    "address": "27200 SW 127th Ave, Homestead, FL 33032",
+    "latitude": 25.512394,
+    "longitude": -80.398743
+  }
+]

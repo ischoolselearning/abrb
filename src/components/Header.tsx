@@ -1,14 +1,14 @@
 import React from "react";
 import "../css/header.css";
 
-function Header() {
+const Header: React.FC = () => {
   return (
     <div className="header">
       <nav className="header__nav" role="navigation">
         <div
           className="header__nav__logo__container"
           data-testid="nav-grid"
-          tabindex="-1"
+          tabIndex={-1}
         >
           <a
             data-baseweb="link"
@@ -62,6 +62,6 @@ function Header() {
       </nav>
     </div>
   );
-}
+};
 
 export default Header;

@@ -20,16 +20,18 @@
 import { useEffect, useState } from "react";
 import { MapContainer, TileLayer, Marker, Popup, useMap } from "react-leaflet";
 import L from "leaflet";
+import addressArray from "../utils/warehouses_southeast_700.json";
+
 import "leaflet/dist/leaflet.css";
 import "../css/mapSearch.css";
 import SearchBox from "./SearchBox";
 
-const GEOCODE_URL = "https://nominatim.openstreetmap.org/search";
-const OSM_URL = "https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png";
-const OSM_ATTRIB =
+const GEOCODE_URL: string = "https://nominatim.openstreetmap.org/search";
+const OSM_URL: string = "https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png";
+const OSM_ATTRIB: string =
   '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors';
 // Leaflet's default marker icons break under most bundlers; point them at a CDN.
-/*const markerIcon = L.icon({
+const blueMarkerIcon = L.icon({
   iconUrl:
     "https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/images/marker-icon.png",
   iconRetinaUrl:
@@ -40,9 +42,9 @@ const OSM_ATTRIB =
   iconAnchor: [12, 41],
   popupAnchor: [1, -34],
   shadowSize: [41, 41],
-});*/
+});
 
-const markerIcon = new L.Icon({
+const markerIcon: L.Icon = new L.Icon({
   iconUrl:
     "https://raw.githubusercontent.com/pointhi/leaflet-color-markers/master/img/marker-icon-2x-green.png",
   shadowUrl:
@@ -54,7 +56,7 @@ const markerIcon = new L.Icon({
 });
 
 /** Moves the map whenever the selected place changes. */
-function FlyTo({ place }) {
+function FlyTo({ place }: { place: any }): null {
   const map = useMap();
   useEffect(() => {
     if (!place) return;
@@ -73,7 +75,13 @@ export default function MapSearch({
   onSelect,
   placeholder = "Search for a place",
   geocodeUrl = GEOCODE_URL,
-}) {
+}: {
+  center?: [number, number];
+  zoom?: number;
+  onSelect?: (place: any) => void;
+  placeholder?: string;
+  geocodeUrl?: string;
+}): React.JSX.Element {
   const [place, setPlace] = useState(null);
 
   const handlePick = (p) => {
@@ -92,7 +100,7 @@ export default function MapSearch({
         <TileLayer attribution={OSM_ATTRIB} url={OSM_URL} />
         <FlyTo place={place} />
         {place && (
-          <Marker position={[place.lat, place.lon]} icon={markerIcon}>
+          <Marker position={[place.lat, place.lon]} icon={blueMarkerIcon}>
             <Popup>
               <strong>{place.name}</strong>
               <br />
@@ -100,6 +108,19 @@ export default function MapSearch({
             </Popup>
           </Marker>
         )}
+        {addressArray.map((address, index) => (
+          <Marker
+            key={index}
+            position={[address.latitude, address.longitude]}
+            icon={markerIcon}
+          >
+            <Popup>
+              <strong>{address.name}</strong>
+              <br />
+              {address.address}
+            </Popup>
+          </Marker>
+        ))}
       </MapContainer>
       <SearchBox
         onPick={handlePick}

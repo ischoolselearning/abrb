@@ -2,14 +2,38 @@ import { useState, useEffect, useRef } from "react";
 
 import "../css/searchBox.css";
 
-export default function SearchBox({ onPick, geocodeUrl, placeholder }) {
-  const [query, setQuery] = useState("");
-  const [results, setResults] = useState([]);
-  const [status, setStatus] = useState("idle"); // idle | loading | empty | error
-  const [active, setActive] = useState(-1);
-  const [open, setOpen] = useState(false);
-  const abortRef = useRef(null);
-  const wrapRef = useRef(null);
+interface Place {
+  id: string;
+  name: string;
+  address: string;
+  lat: number;
+  lon: number;
+  bounds: [number, number][] | null;
+}
+
+interface GeocodeResult {
+  place_id: string;
+  name?: string;
+  display_name: string;
+  lat: string;
+  lon: string;
+  boundingbox?: [string, string, string, string];
+}
+
+const SearchBox: React.FC<{
+  onPick: (place: Place) => void;
+  geocodeUrl: string;
+  placeholder: string;
+}> = ({ onPick, geocodeUrl, placeholder }) => {
+  const [query, setQuery] = useState<string>("");
+  const [results, setResults] = useState<Place[]>([]);
+  const [status, setStatus] = useState<"idle" | "loading" | "empty" | "error">(
+    "idle",
+  ); // idle | loading | empty | error
+  const [active, setActive] = useState<number>(-1);
+  const [open, setOpen] = useState<boolean>(false);
+  const abortRef = useRef<AbortController | null>(null);
+  const wrapRef = useRef<HTMLDivElement | null>(null);
 
   // Debounced search
   useEffect(() => {
@@ -31,8 +55,8 @@ export default function SearchBox({ onPick, geocodeUrl, placeholder }) {
           headers: { "Accept-Language": navigator.language || "en" },
         });
         if (!res.ok) throw new Error(`HTTP ${res.status}`);
-        const data = await res.json();
-        const mapped = data.map((d) => ({
+        const data: GeocodeResult[] = await res.json();
+        const mapped: Place[] = data.map((d) => ({
           id: d.place_id,
           name: d.name || d.display_name.split(",")[0],
           address: d.display_name,
@@ -58,21 +82,21 @@ export default function SearchBox({ onPick, geocodeUrl, placeholder }) {
 
   // Close the list when clicking outside
   useEffect(() => {
-    const onDown = (e) => {
-      if (wrapRef.current && !wrapRef.current.contains(e.target))
+    const onDown = (e: MouseEvent) => {
+      if (wrapRef.current && !wrapRef.current.contains(e.target as Node))
         setOpen(false);
     };
     document.addEventListener("mousedown", onDown);
     return () => document.removeEventListener("mousedown", onDown);
   }, []);
 
-  const choose = (place) => {
+  const choose = (place: Place) => {
     setQuery(place.name);
     setOpen(false);
     onPick(place);
   };
 
-  const onKeyDown = (e) => {
+  const onKeyDown = (e: React.KeyboardEvent<HTMLInputElement>) => {
     if (!open || !results.length) return;
     if (e.key === "ArrowDown") {
       e.preventDefault();
@@ -188,8 +212,10 @@ export default function SearchBox({ onPick, geocodeUrl, placeholder }) {
       )}
     </div>
   );
-}
+};
 
 const styles = `
 
 `;
+
+export default SearchBox;
