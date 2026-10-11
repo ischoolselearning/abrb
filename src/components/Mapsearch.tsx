@@ -20,7 +20,7 @@
 import { useEffect, useState } from "react";
 import { MapContainer, TileLayer, Marker, Popup, useMap } from "react-leaflet";
 import L from "leaflet";
-import addressArray from "../utils/warehouses_southeast_700.json";
+import addressArray from "../utils/warehouses_southeast_1200.json";
 
 import "leaflet/dist/leaflet.css";
 import "../css/mapSearch.css";

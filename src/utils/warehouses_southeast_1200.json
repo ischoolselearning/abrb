@@ -1464,12 +1464,6 @@
     "longitude": -83.826551
   },
   {
-    "name": "General Mills",
-    "address": "1871 Willow Springs Church Rd, Social Circle, GA 30025",
-    "latitude": 33.638021,
-    "longitude": -83.680375
-  },
-  {
     "name": "Fulton Warehouse",
     "address": "266 Villanova Dr SW, Atlanta, GA 30336",
     "latitude": 33.736116,
@@ -1558,12 +1552,6 @@
     "address": "1161 Candler Rd, Gainesville, GA 30507",
     "latitude": 34.266314,
     "longitude": -83.817204
-  },
-  {
-    "name": "Frito-Lay Inc",
-    "address": "1005 Airport St, Gainesville, GA 30501",
-    "latitude": 34.276172,
-    "longitude": -83.818521
   },
   {
     "name": "Warehouse (1st Ave)",
@@ -2592,7 +2580,7 @@
     "longitude": -84.290125
   },
   {
-    "name": "Expeditors International’s",
+    "name": "Expeditors International",
     "address": "2764 Anvilblock Rd, Ellenwood, GA 30294",
     "latitude": 33.635203,
     "longitude": -84.300042
@@ -3924,7 +3912,7 @@
     "longitude": -79.213373
   },
   {
-    "name": "Dc9",
+    "name": "DC9",
     "address": "1703 E D St, Butner, NC 27509",
     "latitude": 36.156335,
     "longitude": -78.733232
@@ -3952,12 +3940,6 @@
     "address": "1302 Enterprise Blvd, Kinston, NC 28504",
     "latitude": 35.269579,
     "longitude": -77.670611
-  },
-  {
-    "name": "Blizzards Mini Warehouse",
-    "address": "1869 US-70, Kinston, NC 28501",
-    "latitude": 35.227062,
-    "longitude": -77.540312
   },
   {
     "name": "American Warehousing Systems, Inc.",
@@ -4198,5 +4180,3023 @@
     "address": "1701 N Clayton, Columbia, TN 38401",
     "latitude": 35.671893,
     "longitude": -87.015068
+  },
+  {
+    "name": "Amazon Distribution Warehouse",
+    "address": "11901 Nations Ford Rd, Pineville, NC 28134",
+    "latitude": 35.102415,
+    "longitude": -80.914663
+  },
+  {
+    "name": "Amazon XLDS HCL2",
+    "address": "12220 Carolina Logistics Dr, Pineville, NC 28134",
+    "latitude": 35.10078,
+    "longitude": -80.915634
+  },
+  {
+    "name": "Eastern Warehouse & Transfer LLC",
+    "address": "415 N Sutherland Ave, Monroe, NC 28110",
+    "latitude": 34.987544,
+    "longitude": -80.525387
+  },
+  {
+    "name": "Stronghaven Container Warehouse",
+    "address": "433 E John St, Matthews, NC 28105",
+    "latitude": 35.113498,
+    "longitude": -80.718004
+  },
+  {
+    "name": "AMAZON SNC2 VNC2 WAREHOUSE",
+    "address": "10622 Bryton Corporate Center Dr, Huntersville, NC 28078",
+    "latitude": 35.3733,
+    "longitude": -80.824036
+  },
+  {
+    "name": "Aaron's Warehouse",
+    "address": "12801 Jamesburg Dr, Huntersville, NC 28078",
+    "latitude": 35.445161,
+    "longitude": -80.839704
+  },
+  {
+    "name": "Big Beverages Distribution Center",
+    "address": "10036 Torrence Frd Dr, Huntersville, NC 28078",
+    "latitude": 35.396141,
+    "longitude": -80.856433
+  },
+  {
+    "name": "RahrBSG Warehouse - Huntersville",
+    "address": "10708 Bryton Corporate Center Dr, Huntersville, NC 28078",
+    "latitude": 35.374315,
+    "longitude": -80.823546
+  },
+  {
+    "name": "CSX Railroad Transportation Warehouse",
+    "address": "101 Center St, Apex, NC 27502",
+    "latitude": 35.732708,
+    "longitude": -78.849495
+  },
+  {
+    "name": "Pactiv Evergreen Knightdale Warehouse",
+    "address": "375 Spectrum Dr #130, Knightdale, NC 27545",
+    "latitude": 35.763704,
+    "longitude": -78.516375
+  },
+  {
+    "name": "MDO Warehouse",
+    "address": "375 Spectrum Dr Ste 100, Knightdale, NC 27545",
+    "latitude": 35.763239,
+    "longitude": -78.51624
+  },
+  {
+    "name": "GO Warehouse",
+    "address": "2021 W English Rd, High Point, NC 27262",
+    "latitude": 35.940054,
+    "longitude": -80.025701
+  },
+  {
+    "name": "Sun Warehousing and Distribution",
+    "address": "115 Morrison Ave, Thomasville, NC 27360",
+    "latitude": 35.88158,
+    "longitude": -80.073571
+  },
+  {
+    "name": "MEGA WAREHOUSE",
+    "address": "4051 Wallburg Rd, Winston-Salem, NC 27107",
+    "latitude": 36.039016,
+    "longitude": -80.133081
+  },
+  {
+    "name": "Twin City Warehouses",
+    "address": "100 Enterprise Park Blvd, Winston-Salem, NC 27107",
+    "latitude": 36.036275,
+    "longitude": -80.139275
+  },
+  {
+    "name": "Carolina Public Warehouse Inc",
+    "address": "3609 Glenn Ave NE, Winston-Salem, NC 27105",
+    "latitude": 36.137046,
+    "longitude": -80.23431
+  },
+  {
+    "name": "Twin City Warehouse Inc",
+    "address": "4800 S Main St, Winston-Salem, NC 27107",
+    "latitude": 36.012553,
+    "longitude": -80.234011
+  },
+  {
+    "name": "W W Warehouse",
+    "address": "3101 Shorefair Dr NW, Winston-Salem, NC 27105",
+    "latitude": 36.131263,
+    "longitude": -80.250334
+  },
+  {
+    "name": "Designer's Warehouse",
+    "address": "2975 Andrew Jackson Hwy Unit 400 Dock 21, Leland, NC 28451",
+    "latitude": 34.26812,
+    "longitude": -78.116686
+  },
+  {
+    "name": "Meridien Marketing Warehouse",
+    "address": "7V9M+HH, Northwest, NC 28451",
+    "latitude": 34.268815,
+    "longitude": -78.116196
+  },
+  {
+    "name": "Custom Home Distribution Center",
+    "address": "2100 Enterprise Dr NE, Leland, NC 28451",
+    "latitude": 34.262917,
+    "longitude": -78.069309
+  },
+  {
+    "name": "J Crew Distribution Center",
+    "address": "1 Clifford Way, Arden, NC 28704",
+    "latitude": 35.472983,
+    "longitude": -82.583261
+  },
+  {
+    "name": "Stampede Warehousing + Distribution Services",
+    "address": "110 Somerset Dr NW, Conover, NC 28613",
+    "latitude": 35.722972,
+    "longitude": -81.250651
+  },
+  {
+    "name": "Rock Tenn Capri Warehouse (WestRock)",
+    "address": "430 McLin Creek Rd, Conover, NC 28613",
+    "latitude": 35.691833,
+    "longitude": -81.196343
+  },
+  {
+    "name": "Zenith Global Logistics Second Warehouse",
+    "address": "1130 4th St SW, Conover, NC 28613",
+    "latitude": 35.701141,
+    "longitude": -81.238319
+  },
+  {
+    "name": "A&R Distribution LLC",
+    "address": "4642 Cummings Park Dr, Antioch, TN 37013",
+    "latitude": 36.071757,
+    "longitude": -86.679628
+  },
+  {
+    "name": "Amazon Fulfillment Center BNA6",
+    "address": "3875 Guthrie Hwy, Clarksville, TN 37040",
+    "latitude": 36.605278,
+    "longitude": -87.25006
+  },
+  {
+    "name": "Warehouse - P070",
+    "address": "1000 Boolean Dr, Clarksville, TN 37040",
+    "latitude": 36.621298,
+    "longitude": -87.265875
+  },
+  {
+    "name": "Mid-South Warehouse",
+    "address": "2765 Profit Dr, Memphis, TN 38132",
+    "latitude": 35.069881,
+    "longitude": -90.009854
+  },
+  {
+    "name": "TJX Warehouse",
+    "address": "3860 E Holmes Rd, Memphis, TN 38118",
+    "latitude": 35.006966,
+    "longitude": -89.935539
+  },
+  {
+    "name": "Jacobson Warehouse Co",
+    "address": "4148 Delp St, Memphis, TN 38118",
+    "latitude": 35.034435,
+    "longitude": -89.923352
+  },
+  {
+    "name": "Covington Way Distribution Center",
+    "address": "2095 Spicer Cove, Memphis, TN 38134",
+    "latitude": 35.183159,
+    "longitude": -89.889947
+  },
+  {
+    "name": "Bartlett Towne Center",
+    "address": "5985 Stage Rd, Memphis, TN 38134",
+    "latitude": 35.203542,
+    "longitude": -89.862836
+  },
+  {
+    "name": "WTN2 Amazon Warehouse",
+    "address": "1848 Lager Ln, Jackson, TN 38301",
+    "latitude": 35.608652,
+    "longitude": -88.92739
+  },
+  {
+    "name": "West Tennessee Warehouse Co",
+    "address": "115 Bonwood Dr, Jackson, TN 38301",
+    "latitude": 35.553186,
+    "longitude": -88.822045
+  },
+  {
+    "name": "USFarathane Warehouse",
+    "address": "40 Carl Kirkland Drive, Jackson, TN 38301",
+    "latitude": 35.617977,
+    "longitude": -88.887627
+  },
+  {
+    "name": "Ryder Distribution Center",
+    "address": "2-, 154 James Lawrence Rd, Jackson, TN 38301",
+    "latitude": 35.596649,
+    "longitude": -88.931399
+  },
+  {
+    "name": "All American Warehouse",
+    "address": "901 Eastern Star Rd, Kingsport, TN 37663",
+    "latitude": 36.456024,
+    "longitude": -82.5174
+  },
+  {
+    "name": "Warehouse Services",
+    "address": "3309 Laurens Rd, Greenville, SC 29607",
+    "latitude": 34.809814,
+    "longitude": -82.323616
+  },
+  {
+    "name": "FREITTY Cross-Dock Greenville",
+    "address": "710 Mauldin Rd, Greenville, SC 29607",
+    "latitude": 34.791553,
+    "longitude": -82.352903
+  },
+  {
+    "name": "Gateway Warehouse",
+    "address": "325 Wingo Heights Rd, Spartanburg, SC 29303",
+    "latitude": 34.975582,
+    "longitude": -82.001861
+  },
+  {
+    "name": "Global Supply Warehouse",
+    "address": "1685 Price House Rd, Roebuck, SC 29376",
+    "latitude": 34.748865,
+    "longitude": -81.960549
+  },
+  {
+    "name": "Blueprint Warehouse Company, LLC",
+    "address": "6 Corporate Pkwy Ste C, Goose Creek, SC 29445",
+    "latitude": 33.019863,
+    "longitude": -80.084794
+  },
+  {
+    "name": "Charleston logistic center",
+    "address": "830 Drop Off Dr, Summerville, SC 29483",
+    "latitude": 33.081291,
+    "longitude": -80.202869
+  },
+  {
+    "name": "Cubework",
+    "address": "369 N Cypress Dr, Summerville, SC 29486",
+    "latitude": 33.109413,
+    "longitude": -80.196922
+  },
+  {
+    "name": "Amazon CAE3 MOD",
+    "address": "222 Old Wire Rd, West Columbia, SC 29172",
+    "latitude": 33.895086,
+    "longitude": -81.042826
+  },
+  {
+    "name": "BWT/ Dixie Offsite Warehouse/ Georgia-Pacific",
+    "address": "2494 Florence Harllee Blvd, Florence, SC 29506",
+    "latitude": 34.268788,
+    "longitude": -79.6936
+  },
+  {
+    "name": "A Warehouse",
+    "address": "305 Church St, Conway, SC 29527",
+    "latitude": 33.829849,
+    "longitude": -79.058635
+  },
+  {
+    "name": "Amazon warehouse",
+    "address": "5374 McIntosh Rd, Oxford, AL 36203",
+    "latitude": 33.569383,
+    "longitude": -85.790336
+  },
+  {
+    "name": "Warehouse Space, LLC",
+    "address": "809 Bama Dr, Oxford, AL 36203",
+    "latitude": 33.600221,
+    "longitude": -85.867092
+  },
+  {
+    "name": "Lineage",
+    "address": "2283 Steele Station Rd, Gadsden, AL 35906",
+    "latitude": 33.962178,
+    "longitude": -86.080453
+  },
+  {
+    "name": "PREP WAREHOUSE AVVS TECH",
+    "address": "200 Woodward Ave, Muscle Shoals, AL 35661",
+    "latitude": 34.758079,
+    "longitude": -87.667884
+  },
+  {
+    "name": "Microflex Spaces - Auburn",
+    "address": "2900 Wyndham Industrial Dr, Opelika, AL 36804",
+    "latitude": 32.616382,
+    "longitude": -85.3875
+  },
+  {
+    "name": "MEM3 Amazon Fulfillment Center",
+    "address": "1615 Commerce Pkwy, Horn Lake, MS 38637",
+    "latitude": 34.921807,
+    "longitude": -90.019235
+  },
+  {
+    "name": "Titan Brands - Distribution Center",
+    "address": "6266 Hurt Rd, Horn Lake, MS 38637",
+    "latitude": 34.952549,
+    "longitude": -90.031924
+  },
+  {
+    "name": "Patterson Warehouses",
+    "address": "601 Expressway Dr, Horn Lake, MS 38637",
+    "latitude": 34.957546,
+    "longitude": -90.001175
+  },
+  {
+    "name": "Grainger Distribution Center",
+    "address": "4300 Old Airways Boulevard, Southaven, MS 38671",
+    "latitude": 34.923554,
+    "longitude": -89.990455
+  },
+  {
+    "name": "Buske Logistics",
+    "address": "11384 Progress Wy, Olive Branch, MS 38654",
+    "latitude": 34.953408,
+    "longitude": -89.787143
+  },
+  {
+    "name": "Five Below Warehouse & Distribution Center",
+    "address": "9105 Hacks Cross Rd, Olive Branch, MS 38654",
+    "latitude": 34.993006,
+    "longitude": -89.797858
+  },
+  {
+    "name": "Buske Logistics",
+    "address": "11865 Progress Wy Ste 103, Olive Branch, MS 38654",
+    "latitude": 34.952053,
+    "longitude": -89.778847
+  },
+  {
+    "name": "Amazon MEM6",
+    "address": "11505 Progress Wy, Olive Branch, MS 38654",
+    "latitude": 34.952484,
+    "longitude": -89.782215
+  },
+  {
+    "name": "Nucor Receiving Warehouse",
+    "address": "2000 Underwood Dr, Flowood, MS 39232",
+    "latitude": 32.307947,
+    "longitude": -90.135426
+  },
+  {
+    "name": "JAN1 Amazon Fulfillment Center - Canton",
+    "address": "1978 MS-22, Canton, MS 39046",
+    "latitude": 32.597497,
+    "longitude": -90.102749
+  },
+  {
+    "name": "Amazon",
+    "address": "89 supply chain blvd, Moselle, MS 39459",
+    "latitude": 31.46213,
+    "longitude": -89.32412
+  },
+  {
+    "name": "Channel Control Merchants",
+    "address": "48 Rawls Springs Loop Rd, Hattiesburg, MS 39402",
+    "latitude": 31.362028,
+    "longitude": -89.349643
+  },
+  {
+    "name": "Cotton Press Warehouse LLC",
+    "address": "208 Old 29th Ave, Meridian, MS 39301",
+    "latitude": 32.357648,
+    "longitude": -88.707448
+  },
+  {
+    "name": "Queen City Warehouse and Transload",
+    "address": "2710 US-11, Meridian, MS 39307",
+    "latitude": 32.334228,
+    "longitude": -88.742372
+  },
+  {
+    "name": "Specialty warehouse",
+    "address": "2322 Valley Rd, Meridian, MS 39307",
+    "latitude": 32.343408,
+    "longitude": -88.72736
+  },
+  {
+    "name": "GSC Southeast",
+    "address": "5173 Pioneer Rd, Meridian, MS 39301",
+    "latitude": 32.414934,
+    "longitude": -88.621685
+  },
+  {
+    "name": "Scruggs Farm Warehouse",
+    "address": "365 Mt Vernon Rd, Tupelo, MS 38804",
+    "latitude": 34.346227,
+    "longitude": -88.787381
+  },
+  {
+    "name": "Omega Protein Seacoast Warehouse",
+    "address": "5639 Elder Ferry Rd, Moss Point, MS 39563",
+    "latitude": 30.426718,
+    "longitude": -88.509632
+  },
+  {
+    "name": "Cascio Storage and Warehouse",
+    "address": "1796 N Theobald St Exd, Greenville, MS 38703",
+    "latitude": 33.429224,
+    "longitude": -91.036547
+  },
+  {
+    "name": "WareHouse Vicksburg",
+    "address": "1414 Washington St, Vicksburg, MS 39180",
+    "latitude": 32.348507,
+    "longitude": -90.882544
+  },
+  {
+    "name": "Atlanta Bonded Warehouse",
+    "address": "1825 N Theobald St Exd, Greenville, MS 38703",
+    "latitude": 33.429465,
+    "longitude": -91.032409
+  },
+  {
+    "name": "Swift Center",
+    "address": "26245 W Main St, West Point, MS 39773",
+    "latitude": 33.60738,
+    "longitude": -88.652664
+  },
+  {
+    "name": "WIC Warehouse",
+    "address": "1342 N Eshman Ave, West Point, MS 39773",
+    "latitude": 33.626392,
+    "longitude": -88.632469
+  },
+  {
+    "name": "Elmwood Distribution Center",
+    "address": "5612 Jefferson Hwy, New Orleans, LA 70123",
+    "latitude": 29.943731,
+    "longitude": -90.183527
+  },
+  {
+    "name": "Elmwood Distribution Center",
+    "address": "2408 St Louis St, New Orleans, LA 70119",
+    "latitude": 29.966593,
+    "longitude": -90.08144
+  },
+  {
+    "name": "Cajun Distribution Services Inc",
+    "address": "600 St George Ave, On, Pontchartrain Rd # E, New Orleans, LA 70121",
+    "latitude": 29.959189,
+    "longitude": -90.178952
+  },
+  {
+    "name": "Amazon DNO1",
+    "address": "5042 Bloomfield St, New Orleans, LA 70121",
+    "latitude": 29.961018,
+    "longitude": -90.181391
+  },
+  {
+    "name": "Lineage",
+    "address": "3411 Jourdan Rd, New Orleans, LA 70126",
+    "latitude": 29.996707,
+    "longitude": -90.016496
+  },
+  {
+    "name": "Amazon Fulfillment Center BTR1",
+    "address": "9001 Cortana Pl, Baton Rouge, LA 70815",
+    "latitude": 30.457649,
+    "longitude": -91.092432
+  },
+  {
+    "name": "Logistics DISTRIBUTION",
+    "address": "12100 Little Caymen Ave, Baton Rouge, LA 70809",
+    "latitude": 30.380811,
+    "longitude": -91.048346
+  },
+  {
+    "name": "Baton Rouge Warehouse",
+    "address": "1565 River Rd, Baton Rouge, LA 70802",
+    "latitude": 30.432158,
+    "longitude": -91.190798
+  },
+  {
+    "name": "Associated Grocers- Freight",
+    "address": "9393 Perkins Rd, Baton Rouge, LA 70810",
+    "latitude": 30.383784,
+    "longitude": -91.100105
+  },
+  {
+    "name": "Distribution Center",
+    "address": "253 N Common St, Shreveport, LA 71101",
+    "latitude": 32.517886,
+    "longitude": -93.760046
+  },
+  {
+    "name": "Brookshire distribution center",
+    "address": "101 Commission Blvd, Lafayette, LA 70508",
+    "latitude": 30.172959,
+    "longitude": -91.983773
+  },
+  {
+    "name": "Amazon LFT1",
+    "address": "3550 NE Evangeline Thruway, Lafayette, LA 70507",
+    "latitude": 30.313112,
+    "longitude": -92.025767
+  },
+  {
+    "name": "Schilling Distributing Company",
+    "address": "2901 Moss St, Lafayette, LA 70501",
+    "latitude": 30.258249,
+    "longitude": -92.008474
+  },
+  {
+    "name": "Home Furniture Company Distribution",
+    "address": "909 W Pont Des Mouton Rd, Lafayette, LA 70507",
+    "latitude": 30.27502,
+    "longitude": -92.043397
+  },
+  {
+    "name": "Brookshire's Warehouse",
+    "address": "4701 Central Ave, Monroe, LA 71203",
+    "latitude": 32.513188,
+    "longitude": -92.055609
+  },
+  {
+    "name": "WLN6 Amazon",
+    "address": "1265 Luffey Dr, Monroe, LA 71203",
+    "latitude": 32.493684,
+    "longitude": -92.027483
+  },
+  {
+    "name": "Monroe Warehouse Co",
+    "address": "801 Riverbarge St, Monroe, LA 71202",
+    "latitude": 32.444034,
+    "longitude": -92.101768
+  },
+  {
+    "name": "Monroe Warehouse Co",
+    "address": "2019 Jackson St, Monroe, LA 71202",
+    "latitude": 32.480578,
+    "longitude": -92.108327
+  },
+  {
+    "name": "Gulf South Warehouse",
+    "address": "2930 Commerce St, Monroe, LA 71201",
+    "latitude": 32.518156,
+    "longitude": -92.085579
+  },
+  {
+    "name": "Walmart distribution center",
+    "address": "505 Pride Dr, Hammond, LA 70401",
+    "latitude": 30.516756,
+    "longitude": -90.429239
+  },
+  {
+    "name": "The Home Depot Distribution Center",
+    "address": "835a Pride Dr, Hammond, LA 70401",
+    "latitude": 30.523109,
+    "longitude": -90.425906
+  },
+  {
+    "name": "Medline Industries, LP",
+    "address": "2100 Industrial Park Rd, Hammond, LA 70401",
+    "latitude": 30.532914,
+    "longitude": -90.405779
+  },
+  {
+    "name": "DSS Distributing",
+    "address": "47047 Conrad E Anderson St, Hammond, LA 70401",
+    "latitude": 30.535526,
+    "longitude": -90.41762
+  },
+  {
+    "name": "DNO2 Amazon",
+    "address": "5733 Citrus Blvd, Elmwood, LA 70123",
+    "latitude": 29.966082,
+    "longitude": -90.200044
+  },
+  {
+    "name": "LMDC",
+    "address": "5600 Jefferson Hwy, Elmwood, LA 70123",
+    "latitude": 29.945417,
+    "longitude": -90.184413
+  },
+  {
+    "name": "Wilson Warehouse",
+    "address": "2400 Sorrel Ave, Baton Rouge, LA 70802",
+    "latitude": 30.468051,
+    "longitude": -91.181135
+  },
+  {
+    "name": "Kroger Distribution Louisville",
+    "address": "2000 Nelson Miller Pkwy, Louisville, KY 40223",
+    "latitude": 38.271785,
+    "longitude": -85.510091
+  },
+  {
+    "name": "Advance Distribution Services",
+    "address": "1944 S 16th St, Louisville, KY 40210",
+    "latitude": 38.22334,
+    "longitude": -85.785245
+  },
+  {
+    "name": "GUESS Distribution Center",
+    "address": "10610 Freeport Dr, Louisville, KY 40258",
+    "latitude": 38.128889,
+    "longitude": -85.883094
+  },
+  {
+    "name": "KEEN Distribution Center",
+    "address": "3212 E Blue Lick Rd, Louisville, KY 40229",
+    "latitude": 38.070928,
+    "longitude": -85.697636
+  },
+  {
+    "name": "McKesson Distribution Center",
+    "address": "170 Clermont Rd Ste a, Shepherdsville, KY 40165",
+    "latitude": 37.925767,
+    "longitude": -85.698114
+  },
+  {
+    "name": "McKesson: Omega Distribution Center",
+    "address": "271 Omega Pkwy, Shepherdsville, KY 40165",
+    "latitude": 37.974656,
+    "longitude": -85.683813
+  },
+  {
+    "name": "Gordon Food Service: Shepherdsville Distribution Center",
+    "address": "342 Gordon Industrial Dr, Shepherdsville, KY 40165",
+    "latitude": 37.973963,
+    "longitude": -85.678565
+  },
+  {
+    "name": "Amazon Fulfillment Center (SDF4)",
+    "address": "376 Amazon.com Blvd, Shepherdsville, KY 40165",
+    "latitude": 37.979675,
+    "longitude": -85.6844
+  },
+  {
+    "name": "Amazon Fulfillment Center (SDF9)",
+    "address": "100 W Thomas P. Echols Ln #3, Shepherdsville, KY 40165",
+    "latitude": 37.983598,
+    "longitude": -85.688569
+  },
+  {
+    "name": "Amazon Fulfillment Center - LEX1",
+    "address": "1850 Mercer Rd, Lexington, KY 40511",
+    "latitude": 38.076042,
+    "longitude": -84.533572
+  },
+  {
+    "name": "Sentinel Warehousing & Distribution",
+    "address": "424 Fairman Ct, Lexington, KY 40511",
+    "latitude": 38.076243,
+    "longitude": -84.519473
+  },
+  {
+    "name": "Amazon Fulfillment Center - LEX2",
+    "address": "172 Trade St, Lexington, KY 40511",
+    "latitude": 38.075437,
+    "longitude": -84.550065
+  },
+  {
+    "name": "Fister Distribution, Inc",
+    "address": "2325 Palumbo Dr, Lexington, KY 40509",
+    "latitude": 38.022498,
+    "longitude": -84.452875
+  },
+  {
+    "name": "Saddle Creek Logistics Services",
+    "address": "1353 Baker Ct, Lexington, KY 40511",
+    "latitude": 38.078211,
+    "longitude": -84.516361
+  },
+  {
+    "name": "Givaudan Regional Distribution Center",
+    "address": "2481 Wright Blvd Ste 100, Hebron, KY 41048",
+    "latitude": 39.055698,
+    "longitude": -84.71382
+  },
+  {
+    "name": "Verst Logistics Kentucky Fulfillment Center in Hebron, KY",
+    "address": "1226 Aviation Blvd, Hebron, KY 41048",
+    "latitude": 39.078975,
+    "longitude": -84.67668
+  },
+  {
+    "name": "Hebron Parts Distribution Center",
+    "address": "2300 Progress Dr, Hebron, KY 41048",
+    "latitude": 39.079863,
+    "longitude": -84.65316
+  },
+  {
+    "name": "Amazon Returns Center CVG2",
+    "address": "1600 Worldwide Blvd, Hebron, KY 41048",
+    "latitude": 39.085628,
+    "longitude": -84.725733
+  },
+  {
+    "name": "Amazon Delivery Station DKY9",
+    "address": "7435 Industrial Rd, Florence, KY 41042",
+    "latitude": 38.98094,
+    "longitude": -84.634325
+  },
+  {
+    "name": "Dollar General Fresh Distribution Center",
+    "address": "208 Technology Way, Bowling Green, KY 42101",
+    "latitude": 37.036415,
+    "longitude": -86.324126
+  },
+  {
+    "name": "Fruit of the Loom Bowling Green Distribution Center",
+    "address": "2 Fruit of the Loom Dr, Bowling Green, KY 42103",
+    "latitude": 36.955831,
+    "longitude": -86.408843
+  },
+  {
+    "name": "Holley Performance Distribution Center",
+    "address": "487 Century St, Bowling Green, KY 42101",
+    "latitude": 36.92497,
+    "longitude": -86.511502
+  },
+  {
+    "name": "Goodwill distribution center",
+    "address": "300 Dishman Ln, Bowling Green, KY 42101",
+    "latitude": 36.956913,
+    "longitude": -86.481597
+  },
+  {
+    "name": "Service First Warehouse-Distribution",
+    "address": "907 Peterson Dr, Elizabethtown, KY 42701",
+    "latitude": 37.684712,
+    "longitude": -85.914802
+  },
+  {
+    "name": "Service first warehouse and distribution center",
+    "address": "771 N Black Branch Rd, Elizabethtown, KY 42701",
+    "latitude": 37.674309,
+    "longitude": -85.924226
+  },
+  {
+    "name": "Mid America Warehouse",
+    "address": "2540 S Dixie Hwy, Elizabethtown, KY 42701",
+    "latitude": 37.658527,
+    "longitude": -85.847633
+  },
+  {
+    "name": "UPS Supply Chain Solutions",
+    "address": "800 N Black Branch Rd, Elizabethtown, KY 42701",
+    "latitude": 37.676914,
+    "longitude": -85.926841
+  },
+  {
+    "name": "Save-A-Lot Distribution Center",
+    "address": "4000 Corporate Dr, Winchester, KY 40391",
+    "latitude": 38.020969,
+    "longitude": -84.190094
+  },
+  {
+    "name": "Dollar General Distribution Center",
+    "address": "950 Wenstrup Ln, Walton, KY 41094",
+    "latitude": 38.850115,
+    "longitude": -84.615939
+  },
+  {
+    "name": "Louisville Seventh 3PL LLC",
+    "address": "2900 7th Street Rd, Louisville, KY 40216",
+    "latitude": 38.209523,
+    "longitude": -85.787469
+  },
+  {
+    "name": "Louisville Warehouses and Storage",
+    "address": "1361 S 15th St, Louisville, KY 40210",
+    "latitude": 38.231852,
+    "longitude": -85.778751
+  },
+  {
+    "name": "Louisville Industrial Center",
+    "address": "7615 National Tpke, Louisville, KY 40214",
+    "latitude": 38.140141,
+    "longitude": -85.753789
+  },
+  {
+    "name": "Reynolds warehouse",
+    "address": "50 McCloskey Ave, Louisville, KY 40210",
+    "latitude": 38.225638,
+    "longitude": -85.787909
+  },
+  {
+    "name": "Richmond Distribution Center",
+    "address": "4000 Carolina Ave, Richmond, VA 23222",
+    "latitude": 37.59412,
+    "longitude": -77.409721
+  },
+  {
+    "name": "Dollar Tree Distribution Center",
+    "address": "1330 Exex, Chesapeake, VA 23320",
+    "latitude": 36.770019,
+    "longitude": -76.240326
+  },
+  {
+    "name": "World Distribution Services Chesapeake",
+    "address": "1557 Poindexter St, Chesapeake, VA 23324",
+    "latitude": 36.825176,
+    "longitude": -76.270378
+  },
+  {
+    "name": "ORF3 Amazon",
+    "address": "2020 Northgate Commerce Pkwy, Suffolk, VA 23435",
+    "latitude": 36.8087,
+    "longitude": -76.477529
+  },
+  {
+    "name": "Damco",
+    "address": "3025 Bromay St, Chesapeake, VA 23321",
+    "latitude": 36.838598,
+    "longitude": -76.439582
+  },
+  {
+    "name": "The Home Depot Distribution Center",
+    "address": "6900 Harbour View Blvd, Suffolk, VA 23435",
+    "latitude": 36.884935,
+    "longitude": -76.436044
+  },
+  {
+    "name": "Lineage Logistics",
+    "address": "3200 Chemical Way, Portsmouth, VA 23703",
+    "latitude": 36.86301,
+    "longitude": -76.344299
+  },
+  {
+    "name": "World Distribution Services Virginia Beach",
+    "address": "1537 Air Rail Ave, Virginia Beach, VA 23455",
+    "latitude": 36.901387,
+    "longitude": -76.184121
+  },
+  {
+    "name": "US PORT SERVICES",
+    "address": "2235 Barraud Ave, Norfolk, VA 23504",
+    "latitude": 36.862249,
+    "longitude": -76.268769
+  },
+  {
+    "name": "Kroger Distribution Warehouse",
+    "address": "3800 Garman Rd, Salem, VA 24153",
+    "latitude": 37.275841,
+    "longitude": -80.125868
+  },
+  {
+    "name": "Readerlink Distribution Services, LLC",
+    "address": "1100 Intervale Dr, Salem, VA 24153",
+    "latitude": 37.27268,
+    "longitude": -80.032606
+  },
+  {
+    "name": "Kroger Warehouse",
+    "address": "3820 Garman Rd, Salem, VA 24153",
+    "latitude": 37.275616,
+    "longitude": -80.12098
+  },
+  {
+    "name": "Total Distribution Inc",
+    "address": "2050 Cook Dr, Salem, VA 24153",
+    "latitude": 37.2686,
+    "longitude": -80.018324
+  },
+  {
+    "name": "QualiChem Distribution Center",
+    "address": "1117 Intervale Dr, Salem, VA 24153",
+    "latitude": 37.274631,
+    "longitude": -80.032442
+  },
+  {
+    "name": "Kohl's Distribution Center",
+    "address": "300 Admiral Byrd Dr, Winchester, VA 22602",
+    "latitude": 39.137377,
+    "longitude": -78.148325
+  },
+  {
+    "name": "Kraft Schenker Distribution Center",
+    "address": "291 Park Center Dr, Winchester, VA 22602",
+    "latitude": 39.209319,
+    "longitude": -78.13932
+  },
+  {
+    "name": "The Home Depot Distribution Center",
+    "address": "480 Park Center Dr, Winchester, VA 22603",
+    "latitude": 39.199785,
+    "longitude": -78.140578
+  },
+  {
+    "name": "The Home Depot Distribution Center",
+    "address": "280 Maranto Manor Dr, Winchester, VA 22602",
+    "latitude": 39.080003,
+    "longitude": -78.15294
+  },
+  {
+    "name": "Amazon Distribution Center",
+    "address": "281 Woodbine Rd, Clear Brook, VA 22624",
+    "latitude": 39.289475,
+    "longitude": -78.079207
+  },
+  {
+    "name": "Lidl Regional Distribution Center",
+    "address": "6120 Smith Station Rd, Fredericksburg, VA 22407",
+    "latitude": 38.208179,
+    "longitude": -77.545082
+  },
+  {
+    "name": "RMN3 Amazon Fulfillment Center",
+    "address": "220 Centreport Pkwy, Fredericksburg, VA 22406",
+    "latitude": 38.395209,
+    "longitude": -77.463156
+  },
+  {
+    "name": "Harris Teeter Distribution Relay Center",
+    "address": "9341 Northeast Dr Bldg, Fredericksburg, VA 22408",
+    "latitude": 38.21347,
+    "longitude": -77.485129
+  },
+  {
+    "name": "CVS Distribution Center",
+    "address": "500 Lansdowne Rd, Fredericksburg, VA 22408",
+    "latitude": 38.270142,
+    "longitude": -77.459082
+  },
+  {
+    "name": "Genesis/Exel Logistics Warehouse",
+    "address": "705 Bradburn Pl, Stafford, VA 22554",
+    "latitude": 38.409317,
+    "longitude": -77.427805
+  },
+  {
+    "name": "ALDI Distribution Center",
+    "address": "6801 Aldi Wy, Petersburg, VA 23803",
+    "latitude": 37.178627,
+    "longitude": -77.485453
+  },
+  {
+    "name": "Nestle Purina Warehouse",
+    "address": "1305 W Hundred Rd, Chester, VA 23836",
+    "latitude": 37.347901,
+    "longitude": -77.380563
+  },
+  {
+    "name": "National Warehouse",
+    "address": "756 S West St, Petersburg, VA 23803",
+    "latitude": 37.213918,
+    "longitude": -77.415954
+  },
+  {
+    "name": "J Crew Customer Service And Distribution Center",
+    "address": "1 Ivy Cres, Lynchburg, VA 24513",
+    "latitude": 37.367619,
+    "longitude": -79.241068
+  },
+  {
+    "name": "Lynchburg Public Warehouse",
+    "address": "4630 Murray Pl, Lynchburg, VA 24502",
+    "latitude": 37.369036,
+    "longitude": -79.171947
+  },
+  {
+    "name": "Sterling Amazon BWI1 Warehouse",
+    "address": "45121 Global Plaza, Sterling, VA 20166",
+    "latitude": 38.986336,
+    "longitude": -77.439447
+  },
+  {
+    "name": "Barrett Distribution Centers",
+    "address": "44991 Falcon Pl Ste 180, Sterling, VA 20166",
+    "latitude": 38.977903,
+    "longitude": -77.445915
+  },
+  {
+    "name": "Amazon Logistics DVA5",
+    "address": "11920 Brady Ln, Manassas, VA 20109",
+    "latitude": 38.794072,
+    "longitude": -77.547653
+  },
+  {
+    "name": "CyrusOne Northern Virginia Data Center",
+    "address": "21111 Ridgetop Cir, Sterling, VA 20166",
+    "latitude": 39.02585,
+    "longitude": -77.414147
+  },
+  {
+    "name": "Old Dominion Warehouse & Distribution, Inc.",
+    "address": "1501 Carter Creek Rd, Richmond, VA 23224",
+    "latitude": 37.501157,
+    "longitude": -77.434432
+  },
+  {
+    "name": "MOI Richmond Warehouse",
+    "address": "2314 Dabney Rd, Richmond, VA 23230",
+    "latitude": 37.591255,
+    "longitude": -77.486637
+  },
+  {
+    "name": "Alleghany Warehouse Company, Inc.",
+    "address": "2929 Cofer Rd, Richmond, VA 23224",
+    "latitude": 37.489683,
+    "longitude": -77.453602
+  },
+  {
+    "name": "Aps Warehouse",
+    "address": "2021 Sledd St, Richmond, VA 23220",
+    "latitude": 37.561805,
+    "longitude": -77.443516
+  },
+  {
+    "name": "E C Colley Warehouse",
+    "address": "1121 S Claiborne Ave, New Orleans, LA 70125",
+    "latitude": 29.949321,
+    "longitude": -90.08738
+  },
+  {
+    "name": "CRC Global Solutions",
+    "address": "32 E Airline Hwy, Kenner, LA 70062",
+    "latitude": 29.981561,
+    "longitude": -90.27333
+  },
+  {
+    "name": "The Kearney Companies, Inc.",
+    "address": "3601 France Rd, New Orleans, LA 70126",
+    "latitude": 29.991736,
+    "longitude": -90.023656
+  },
+  {
+    "name": "GXO LOGISTICS",
+    "address": "2850 Sugarhouse Rd, Port Allen, LA 70767",
+    "latitude": 30.489224,
+    "longitude": -91.204833
+  },
+  {
+    "name": "Amazon warehouse",
+    "address": "3191 Webster Ln, Port Allen, LA 70767",
+    "latitude": 30.452127,
+    "longitude": -91.251379
+  },
+  {
+    "name": "Andrews Logistics, Inc",
+    "address": "1324 US-190, Port Allen, LA 70776",
+    "latitude": 30.508125,
+    "longitude": -91.217099
+  },
+  {
+    "name": "GXO",
+    "address": "2072 Commercial Dr, Port Allen, LA 70767",
+    "latitude": 30.449848,
+    "longitude": -91.228946
+  },
+  {
+    "name": "Katoen Natie - Ruby Warehouse",
+    "address": "1777 N Line Rd, Port Allen, LA 70767",
+    "latitude": 30.432604,
+    "longitude": -91.223927
+  },
+  {
+    "name": "Shreveport Warehouse",
+    "address": "2806 Williamson Way, Shreveport, LA 71118",
+    "latitude": 32.382171,
+    "longitude": -93.813981
+  },
+  {
+    "name": "Omni Warehouse",
+    "address": "9630 Interport Dr, Shreveport, LA 71118",
+    "latitude": 32.387532,
+    "longitude": -93.808407
+  },
+  {
+    "name": "Amazon Fulfillment Center SHV1",
+    "address": "1625 Corporate Dr, Shreveport, LA 71107",
+    "latitude": 32.540265,
+    "longitude": -93.780163
+  },
+  {
+    "name": "Ads Logistics Co LLC",
+    "address": "5000 Doug Attaway Blvd, Shreveport, LA 71115",
+    "latitude": 32.369845,
+    "longitude": -93.63807
+  },
+  {
+    "name": "UPS Worldport",
+    "address": "911 Grade Ln, Louisville, KY 40209",
+    "latitude": 38.161144,
+    "longitude": -85.723799
+  },
+  {
+    "name": "UPS Worldport Freight Facility",
+    "address": "6406 Grade Ln, Louisville, KY 40213",
+    "latitude": 38.157351,
+    "longitude": -85.733781
+  },
+  {
+    "name": "Journey Warehousing",
+    "address": "3101 Dixie Hwy, Louisville, KY 40216",
+    "latitude": 38.205624,
+    "longitude": -85.798275
+  },
+  {
+    "name": "Crossdocking & Delivery",
+    "address": "10618 Bluegrass Pkwy Suite #300, Louisville, KY 40299",
+    "latitude": 38.222028,
+    "longitude": -85.55827
+  },
+  {
+    "name": "UPS",
+    "address": "11101 Bluegrass Pkwy, Louisville, KY 40299",
+    "latitude": 38.221018,
+    "longitude": -85.549632
+  },
+  {
+    "name": "Jci Warehouse",
+    "address": "100 Frazier Ct, Georgetown, KY 40324",
+    "latitude": 38.234997,
+    "longitude": -84.536781
+  },
+  {
+    "name": "LandCal Logistics",
+    "address": "100 Summer Ct, Georgetown, KY 40324",
+    "latitude": 38.195178,
+    "longitude": -84.544866
+  },
+  {
+    "name": "Penske Logistics Llc",
+    "address": "114 Triport Rd, Georgetown, KY 40324",
+    "latitude": 38.275637,
+    "longitude": -84.552791
+  },
+  {
+    "name": "Kentucky Separation Center",
+    "address": "1101 Cherry Blossom Way, Georgetown, KY 40324",
+    "latitude": 38.249849,
+    "longitude": -84.529816
+  },
+  {
+    "name": "TLD Logistics Services",
+    "address": "704 Triport Rd, Georgetown, KY 40324",
+    "latitude": 38.289357,
+    "longitude": -84.54315
+  },
+  {
+    "name": "Port Norfolk Commodity Warehouse",
+    "address": "1157 Production Rd, Norfolk, VA 23502",
+    "latitude": 36.857494,
+    "longitude": -76.244827
+  },
+  {
+    "name": "Norfolk Bonded Warehouse",
+    "address": "1619 Diamond Springs Rd Ste c, Virginia Beach, VA 23455",
+    "latitude": 36.901859,
+    "longitude": -76.18061
+  },
+  {
+    "name": "Terminal Warehouse Inc",
+    "address": "3700 Village Ave, Norfolk, VA 23502",
+    "latitude": 36.86079,
+    "longitude": -76.238306
+  },
+  {
+    "name": "Lineage",
+    "address": "8791 Hampton Blvd Pier 3, Norfolk, VA 23505",
+    "latitude": 36.93144,
+    "longitude": -76.32955
+  },
+  {
+    "name": "DOR1 Amazon FLEX Warehouse",
+    "address": "1920 Campostella Rd, Chesapeake, VA 23324",
+    "latitude": 36.788548,
+    "longitude": -76.266614
+  },
+  {
+    "name": "Americold Logistics Chesapeake",
+    "address": "1229 Fleetway Dr, Chesapeake, VA 23323",
+    "latitude": 36.779976,
+    "longitude": -76.370251
+  },
+  {
+    "name": "Lineage",
+    "address": "2700 Trade St, Chesapeake, VA 23323",
+    "latitude": 36.766078,
+    "longitude": -76.338325
+  },
+  {
+    "name": "Orbit Logistics",
+    "address": "14190 Washington Hwy, Ashland, VA 23005",
+    "latitude": 37.792768,
+    "longitude": -77.468944
+  },
+  {
+    "name": "Owens & Minor- Richmond Distribution Center",
+    "address": "11900 N Lakeridge Pkwy, Ashland, VA 23005",
+    "latitude": 37.728209,
+    "longitude": -77.461917
+  },
+  {
+    "name": "Team Logistics LLC",
+    "address": "10465 Dow Gil Rd, Ashland, VA 23005",
+    "latitude": 37.740889,
+    "longitude": -77.469391
+  },
+  {
+    "name": "RVA Warehousing",
+    "address": "14186 Washington Hwy, Ashland, VA 23005",
+    "latitude": 37.792173,
+    "longitude": -77.468482
+  },
+  {
+    "name": "Lawrence Warehousing",
+    "address": "262 Vista Dr, Roanoke, VA 24019",
+    "latitude": 37.359636,
+    "longitude": -79.916391
+  },
+  {
+    "name": "WRK1 Amazon Warehouse",
+    "address": "2002 Blue Hills Dr NE, Roanoke, VA 24012",
+    "latitude": 37.302869,
+    "longitude": -79.909671
+  },
+  {
+    "name": "Orvis Distribution Center",
+    "address": "1711 Blue Hills Dr NE, Roanoke, VA 24012",
+    "latitude": 37.311374,
+    "longitude": -79.8943
+  },
+  {
+    "name": "Camrett Logistics",
+    "address": "3330 Hollins Rd NE, Roanoke, VA 24012",
+    "latitude": 37.304901,
+    "longitude": -79.92843
+  },
+  {
+    "name": "Warehouse District Lofts",
+    "address": "1201 S College Rd #24, Lafayette, LA 70503",
+    "latitude": 30.199619,
+    "longitude": -92.025558
+  },
+  {
+    "name": "Norman's Warehouse",
+    "address": "301 N Hollywood Rd, Houma, LA 70364",
+    "latitude": 29.611648,
+    "longitude": -90.731926
+  },
+  {
+    "name": "St. Louis Warehouse",
+    "address": "119 St Louis St, Houma, LA 70364",
+    "latitude": 29.601719,
+    "longitude": -90.732697
+  },
+  {
+    "name": "BHP Billiton Production Warehouse",
+    "address": "304 Equity Blvd, Houma, LA 70360",
+    "latitude": 29.595843,
+    "longitude": -90.770289
+  },
+  {
+    "name": "Central Warehousing Inc (Cargil)",
+    "address": "4810C Duhon Ln, Alexandria, LA 71302",
+    "latitude": 31.259156,
+    "longitude": -92.438282
+  },
+  {
+    "name": "Cotton Storage Warehouse",
+    "address": "701 Xavier St, Alexandria, LA 71302",
+    "latitude": 31.303775,
+    "longitude": -92.44174
+  },
+  {
+    "name": "Associated Wholesale Grocers Gulf Coast Division",
+    "address": "63331 Old Military Rd, Pearl River, LA 70452",
+    "latitude": 30.350032,
+    "longitude": -89.745301
+  },
+  {
+    "name": "General Warehousing Inc",
+    "address": "12608 Airline Hwy, Gonzales, LA 70737",
+    "latitude": 30.253261,
+    "longitude": -90.926334
+  },
+  {
+    "name": "US Warehouse",
+    "address": "254 Dishman Ln, Bowling Green, KY 42101",
+    "latitude": 36.958101,
+    "longitude": -86.482863
+  },
+  {
+    "name": "Hebron Warehouse",
+    "address": "2095 Global Way, Hebron, KY 41048",
+    "latitude": 39.088047,
+    "longitude": -84.715788
+  },
+  {
+    "name": "Amazon Fullfillment Center CVG1",
+    "address": "1155 Worldwide Blvd, Hebron, KY 41048",
+    "latitude": 39.084804,
+    "longitude": -84.713559
+  },
+  {
+    "name": "Verst Logistics Warehouse Florence, KY- Burlington Pike",
+    "address": "1100 Burlington Pike, Florence, KY 41042",
+    "latitude": 39.010517,
+    "longitude": -84.662925
+  },
+  {
+    "name": "Amazon Air - KCVG Sort Hub",
+    "address": "289 Wendell H Ford Blvd, Hebron, KY 41048",
+    "latitude": 39.032928,
+    "longitude": -84.659626
+  },
+  {
+    "name": "Terminal Warehouse Company",
+    "address": "2034 Atlantic Ave, Chesapeake, VA 23324",
+    "latitude": 36.794433,
+    "longitude": -76.263481
+  },
+  {
+    "name": "Amazon Distribution",
+    "address": "5000 VA-337, Chesapeake, VA 23321",
+    "latitude": 36.813336,
+    "longitude": -76.454071
+  },
+  {
+    "name": "Target Upstream Distribution Center",
+    "address": "300 Manning Bridge Rd, Suffolk, VA 23434",
+    "latitude": 36.707498,
+    "longitude": -76.664886
+  },
+  {
+    "name": "Amazon ORF5 Warehouse",
+    "address": "2150 Enterprise Dr, Suffolk, VA 23434",
+    "latitude": 36.719048,
+    "longitude": -76.684928
+  },
+  {
+    "name": "Amazon warehouse VVA2",
+    "address": "2000 Enterprise Pkwy, Hampton, VA 23666",
+    "latitude": 37.056988,
+    "longitude": -76.411962
+  },
+  {
+    "name": "DOR3 Amazon Delivery Station",
+    "address": "210 W Mercury Blvd, Hampton, VA 23669",
+    "latitude": 37.045138,
+    "longitude": -76.361116
+  },
+  {
+    "name": "S&V Warehousing Services, LLC",
+    "address": "2100 56th St, Hampton, VA 23661",
+    "latitude": 37.008582,
+    "longitude": -76.413191
+  },
+  {
+    "name": "Martin-Brower",
+    "address": "12501 Randolph Ridge Ln, Manassas, VA 20109",
+    "latitude": 38.792518,
+    "longitude": -77.566888
+  },
+  {
+    "name": "JHTNA North Atlantic District Warehouse",
+    "address": "10103 Residency Rd Ste 130, Manassas, VA 20110",
+    "latitude": 38.738074,
+    "longitude": -77.527018
+  },
+  {
+    "name": "Amazon DDC9",
+    "address": "5533 Wellington Rd, Gainesville, VA 20155",
+    "latitude": 38.797505,
+    "longitude": -77.595074
+  },
+  {
+    "name": "FedEx Ground",
+    "address": "7303 Cushing Rd, Manassas, VA 20109",
+    "latitude": 38.79631,
+    "longitude": -77.562065
+  },
+  {
+    "name": "Tomahawk Warehouse",
+    "address": "4200 Murray Pl, Lynchburg, VA 24501",
+    "latitude": 37.375931,
+    "longitude": -79.164906
+  },
+  {
+    "name": "Tomahawk Warehousing Services",
+    "address": "231 Tomahawk Industrial Park, Lynchburg, VA 24502",
+    "latitude": 37.367095,
+    "longitude": -79.231324
+  },
+  {
+    "name": "The Warehouse",
+    "address": "20 W Johnson St, Harrisonburg, VA 22802",
+    "latitude": 38.456462,
+    "longitude": -78.865614
+  },
+  {
+    "name": "Graphic Packaging Warehouse",
+    "address": "600 Hays Ave, Staunton, VA 24401",
+    "latitude": 38.148337,
+    "longitude": -79.092177
+  },
+  {
+    "name": "Amazon WKY5",
+    "address": "5501 Commerce Dr, Paducah, KY 42001",
+    "latitude": 37.090694,
+    "longitude": -88.69938
+  },
+  {
+    "name": "Wagner Warehousing, Inc.",
+    "address": "900 Olive St, Paducah, KY 42001",
+    "latitude": 37.095037,
+    "longitude": -88.623266
+  },
+  {
+    "name": "UPS paducah",
+    "address": "3921 Benton Rd, Paducah, KY 42003",
+    "latitude": 37.041821,
+    "longitude": -88.564044
+  },
+  {
+    "name": "Clark Distributing Co Inc",
+    "address": "330 Locust Ave, Paducah, KY 42003",
+    "latitude": 37.059711,
+    "longitude": -88.577225
+  },
+  {
+    "name": "Clark Distributing Co Inc",
+    "address": "1222 E 4th St, Owensboro, KY 42303",
+    "latitude": 37.773073,
+    "longitude": -87.097795
+  },
+  {
+    "name": "DHL",
+    "address": "1509 Leestown Rd, Frankfort, KY 40601",
+    "latitude": 38.18163,
+    "longitude": -84.803955
+  },
+  {
+    "name": "Buske Logistics",
+    "address": "91 Granite Rdg Ln, Frankfort, KY 40601",
+    "latitude": 38.216172,
+    "longitude": -84.815384
+  },
+  {
+    "name": "Hydra Warehouse",
+    "address": "100 Granite Rdg Ln, Frankfort, KY 40601",
+    "latitude": 38.214029,
+    "longitude": -84.814776
+  },
+  {
+    "name": "red bull distribution center",
+    "address": "201 Triplett Dr, London, KY 40744",
+    "latitude": 37.062735,
+    "longitude": -84.063301
+  },
+  {
+    "name": "Walmart Distribution Center 6097",
+    "address": "3701 Russell Dyche Memorial Hwy, London, KY 40741",
+    "latitude": 37.145515,
+    "longitude": -84.17444
+  },
+  {
+    "name": "Somerset Warehouse & Commerce Park",
+    "address": "480 University Dr, Somerset, KY 42503",
+    "latitude": 37.105982,
+    "longitude": -84.606473
+  },
+  {
+    "name": "Danville Industrial Distributors",
+    "address": "459 Bate St, Danville, KY 40422",
+    "latitude": 37.639853,
+    "longitude": -84.775348
+  },
+  {
+    "name": "United Warehousing Co., LLC",
+    "address": "1800 Kate Dr, Danville, KY 40422",
+    "latitude": 37.632378,
+    "longitude": -84.804743
+  },
+  {
+    "name": "Conner Logistics Inc.",
+    "address": "360 Coin Rd, Somerset, KY 42503",
+    "latitude": 37.179571,
+    "longitude": -84.488415
+  },
+  {
+    "name": "Walmart Distribution Center",
+    "address": "690 Crenshaw Blvd, Hopkinsville, KY 42240",
+    "latitude": 36.735858,
+    "longitude": -87.478037
+  },
+  {
+    "name": "Marshalls Distribution Center",
+    "address": "701 N Main St, Bridgewater, VA 22812",
+    "latitude": 38.391378,
+    "longitude": -78.96603
+  },
+  {
+    "name": "Hope Distributed CDC",
+    "address": "1869 Boyers Rd, Harrisonburg, VA 22801",
+    "latitude": 38.395547,
+    "longitude": -78.855766
+  },
+  {
+    "name": "Walmart Distribution Center",
+    "address": "6000 Walton Wy, Mt Crawford, VA 22841",
+    "latitude": 38.364779,
+    "longitude": -78.917552
+  },
+  {
+    "name": "Food City Distribution Center",
+    "address": "26331 Hillman Hwy, Abingdon, VA 24210",
+    "latitude": 36.742259,
+    "longitude": -81.904538
+  },
+  {
+    "name": "Big South Distribution",
+    "address": "550 Walling Rd, Bristol, VA 24201",
+    "latitude": 36.624948,
+    "longitude": -82.146215
+  },
+  {
+    "name": "Amazon WTN1",
+    "address": "245 Thomas Rd, Bristol, VA 24201",
+    "latitude": 36.619365,
+    "longitude": -82.122445
+  },
+  {
+    "name": "Amazon LIT2",
+    "address": "13001 US-70, North Little Rock, AR 72117",
+    "latitude": 34.777365,
+    "longitude": -92.123299
+  },
+  {
+    "name": "DPC WAREHOUSING",
+    "address": "1901 E 22nd St, Little Rock, AR 72206",
+    "latitude": 34.726129,
+    "longitude": -92.247416
+  },
+  {
+    "name": "Arkansas Elite Warehouse",
+    "address": "4300 W 65th St, Little Rock, AR 72209",
+    "latitude": 34.691185,
+    "longitude": -92.32327
+  },
+  {
+    "name": "Ben E. Keith Foods Mid-South Distribution Center",
+    "address": "1 Ben E Keith Wy, North Little Rock, AR 72117",
+    "latitude": 34.772037,
+    "longitude": -92.166394
+  },
+  {
+    "name": "Walmart Regional Distribution Center",
+    "address": "5801 SW Regional Airport Blvd, Bentonville, AR 72713",
+    "latitude": 36.320944,
+    "longitude": -94.259558
+  },
+  {
+    "name": "Walmart Distribution Center #6001",
+    "address": "2252 N 8th St, Rogers, AR 72756",
+    "latitude": 36.352678,
+    "longitude": -94.128613
+  },
+  {
+    "name": "Walmart Distribution Center #7842",
+    "address": "5800 SW Regional Airport Blvd, Bentonville, AR 72713",
+    "latitude": 36.320474,
+    "longitude": -94.263606
+  },
+  {
+    "name": "Walmart Distribution Center",
+    "address": "1110 SE 10th St, Bentonville, AR 72712",
+    "latitude": 36.359234,
+    "longitude": -94.194042
+  },
+  {
+    "name": "Harps Distribution Center",
+    "address": "701 N Old Missouri Rd, Springdale, AR 72764",
+    "latitude": 36.190288,
+    "longitude": -94.115261
+  },
+  {
+    "name": "Northwest Arkansas Warehouse",
+    "address": "1100 71 Plaza Ct, Springdale, AR 72764",
+    "latitude": 36.161197,
+    "longitude": -94.141171
+  },
+  {
+    "name": "HARPS DC",
+    "address": "1570 E Mountain Rd, Springdale, AR 72764",
+    "latitude": 36.192734,
+    "longitude": -94.113073
+  },
+  {
+    "name": "Five Rivers Distribution",
+    "address": "2020 Riverfront Rd, Van Buren, AR 72956",
+    "latitude": 35.413782,
+    "longitude": -94.336799
+  },
+  {
+    "name": "Five Rivers Distribution",
+    "address": "200 Navy Rd, Fort Smith, AR 72901",
+    "latitude": 35.365806,
+    "longitude": -94.43182
+  },
+  {
+    "name": "Spartan Logistics",
+    "address": "6815 Jenny Lind Rd Unit 31, Fort Smith, AR 72908",
+    "latitude": 35.31776,
+    "longitude": -94.412495
+  },
+  {
+    "name": "Hytrol Distribution Center",
+    "address": "4000 Moore Rd, Jonesboro, AR 72401",
+    "latitude": 35.791129,
+    "longitude": -90.606868
+  },
+  {
+    "name": "Jonesboro Warehousing",
+    "address": "6555 AR-1, Jonesboro, AR 72404",
+    "latitude": 35.732783,
+    "longitude": -90.691186
+  },
+  {
+    "name": "Hytrol Conveyor Company, Inc. - Materials Warehouse Center",
+    "address": "2501 Distributor Dr, Jonesboro, AR 72401",
+    "latitude": 35.814774,
+    "longitude": -90.634325
+  },
+  {
+    "name": "Walmart Distribution Center 6018",
+    "address": "405 E Booth Rd, Searcy, AR 72143",
+    "latitude": 35.220824,
+    "longitude": -91.728572
+  },
+  {
+    "name": "Arkansas Wholesale Distribution Center",
+    "address": "2700 E Beebe Capps Expy, Searcy, AR 72143",
+    "latitude": 35.241799,
+    "longitude": -91.704751
+  },
+  {
+    "name": "Holman Distribution",
+    "address": "1475 William J Clark Dr, Conway, AR 72032",
+    "latitude": 35.057911,
+    "longitude": -92.406514
+  },
+  {
+    "name": "Dollar Tree Distribution Center",
+    "address": "1800 Family Dollar Pkwy, West Memphis, AR 72301",
+    "latitude": 35.179885,
+    "longitude": -90.216748
+  },
+  {
+    "name": "River Bend Warehouse LLC",
+    "address": "1601 S Avalon St, West Memphis, AR 72301",
+    "latitude": 35.123737,
+    "longitude": -90.194177
+  },
+  {
+    "name": "AR3A Warehouse - North",
+    "address": "1 Jim Walter Dr, Texarkana, AR 71854",
+    "latitude": 33.447974,
+    "longitude": -94.005681
+  },
+  {
+    "name": "SAJ Distributors",
+    "address": "3017 S Midland Dr, Pine Bluff, AR 71603",
+    "latitude": 34.199044,
+    "longitude": -92.036178
+  },
+  {
+    "name": "Wagner Logistics",
+    "address": "4104 Emmett Sanders Rd, Pine Bluff, AR 71601",
+    "latitude": 34.251384,
+    "longitude": -91.943007
+  },
+  {
+    "name": "WKN3 Amazon",
+    "address": "4400 E 19th St, Texarkana, AR 71854",
+    "latitude": 33.444814,
+    "longitude": -93.994083
+  },
+  {
+    "name": "Dollar General Distribution Center",
+    "address": "14001 US-70, North Little Rock, AR 72117",
+    "latitude": 34.768482,
+    "longitude": -92.109144
+  },
+  {
+    "name": "Arkansas Elite Warehouse - North Little Rock",
+    "address": "1201 E 5th St, North Little Rock, AR 72114",
+    "latitude": 34.757838,
+    "longitude": -92.255369
+  },
+  {
+    "name": "Alliance Parts Warehouse",
+    "address": "600 Fiber Optic Dr, North Little Rock, AR 72117",
+    "latitude": 34.737183,
+    "longitude": -92.148403
+  },
+  {
+    "name": "Warehouse 400",
+    "address": "400 W New Hope Rd, Rogers, AR 72758",
+    "latitude": 36.310575,
+    "longitude": -94.121316
+  },
+  {
+    "name": "Total Quality Logistics",
+    "address": "300 Arboretum Pl Ste 600, Richmond, VA 23236",
+    "latitude": 37.493042,
+    "longitude": -77.565711
+  },
+  {
+    "name": "Riverside Logistics",
+    "address": "5666 Eastport Blvd, Richmond, VA 23231",
+    "latitude": 37.504693,
+    "longitude": -77.356111
+  },
+  {
+    "name": "Riverside Logistics",
+    "address": "4830 Eubank Rd, Henrico, VA 23231",
+    "latitude": 37.514239,
+    "longitude": -77.352219
+  },
+  {
+    "name": "3PL Companies",
+    "address": "3803 Chamberlayne Ave b21, Richmond, VA 23227",
+    "latitude": 37.585268,
+    "longitude": -77.446576
+  },
+  {
+    "name": "Riverside Logistics",
+    "address": "4365 Carolina Ave, Richmond, VA 23222",
+    "latitude": 37.596132,
+    "longitude": -77.409726
+  },
+  {
+    "name": "The Dupuy Group",
+    "address": "4300 Jourdan Rd, New Orleans, LA 70126",
+    "latitude": 30.012899,
+    "longitude": -90.02668
+  },
+  {
+    "name": "Meyers Warehouse Inc",
+    "address": "14200 Chef Menteur Hwy, New Orleans, LA 70129",
+    "latitude": 30.034559,
+    "longitude": -89.914733
+  },
+  {
+    "name": "Lineage",
+    "address": "7150 S Choctaw Dr, Baton Rouge, LA 70806",
+    "latitude": 30.470183,
+    "longitude": -91.116877
+  },
+  {
+    "name": "Bowling Green Warehousing (www.kycoldstorage.com)",
+    "address": "428 Dishman Ln, Bowling Green, KY 42101",
+    "latitude": 36.954072,
+    "longitude": -86.478787
+  },
+  {
+    "name": "MCS Merchants Cold Storage",
+    "address": "240 Shorland Dr #100, Walton, KY 41094",
+    "latitude": 38.923897,
+    "longitude": -84.624981
+  },
+  {
+    "name": "Cold Chain Integrity",
+    "address": "2825 Crescent Springs Pike, Erlanger, KY 41018",
+    "latitude": 39.035296,
+    "longitude": -84.588453
+  },
+  {
+    "name": "Langley Cold Storage",
+    "address": "256 Midland Trail, Mt Sterling, KY 40353",
+    "latitude": 38.079313,
+    "longitude": -83.924387
+  },
+  {
+    "name": "H T Warehousing & Cold Storage",
+    "address": "227 Airpark Dr, London, KY 40744",
+    "latitude": 37.08485,
+    "longitude": -84.069794
+  },
+  {
+    "name": "Winchester Cold Storage Co",
+    "address": "605 N Loudoun St, Winchester, VA 22601",
+    "latitude": 39.193825,
+    "longitude": -78.162117
+  },
+  {
+    "name": "Interchange Cold Storage",
+    "address": "5915 Crowe Dr, Mt Crawford, VA 22841",
+    "latitude": 38.368904,
+    "longitude": -78.911743
+  },
+  {
+    "name": "United States Cold Storage",
+    "address": "780 Pleasant Valley Rd, Harrisonburg, VA 22801",
+    "latitude": 38.396236,
+    "longitude": -78.897957
+  },
+  {
+    "name": "Lineage",
+    "address": "5501 Corrugated Rd, Sandston, VA 23150",
+    "latitude": 37.508451,
+    "longitude": -77.343342
+  },
+  {
+    "name": "Winchester Cold Storage",
+    "address": "167 Kelley Dr, Front Royal, VA 22630",
+    "latitude": 38.974469,
+    "longitude": -78.174354
+  },
+  {
+    "name": "Agile Cold Storage",
+    "address": "39200 Pearl Pkwy, Pearl River, LA 70452",
+    "latitude": 30.347211,
+    "longitude": -89.75069
+  },
+  {
+    "name": "Americold Logistics Delhi",
+    "address": "75 LA-609, Delhi, LA 71232",
+    "latitude": 32.459503,
+    "longitude": -91.57402
+  },
+  {
+    "name": "Advanced Cold Storage",
+    "address": "601 Neosho Ave, Baton Rouge, LA 70802",
+    "latitude": 30.468464,
+    "longitude": -91.182493
+  },
+  {
+    "name": "Americold Logistics, LLC",
+    "address": "111 Imperial Dr, Sanford, NC 27330",
+    "latitude": 35.517612,
+    "longitude": -79.214157
+  },
+  {
+    "name": "Port of Wilmington Cold Storage",
+    "address": "1 Shipyard Blvd, Wilmington, NC 28412",
+    "latitude": 34.19508,
+    "longitude": -77.951989
+  },
+  {
+    "name": "Nordic Cold Storage",
+    "address": "2458 Hodges Chapel Rd, Dunn, NC 28334",
+    "latitude": 35.357319,
+    "longitude": -78.567215
+  },
+  {
+    "name": "Battleground Cold Storage",
+    "address": "3500 Old Battleground Rd, Greensboro, NC 27410",
+    "latitude": 36.125396,
+    "longitude": -79.84377
+  },
+  {
+    "name": "Americold Logistics Benson",
+    "address": "444 Gilbert Rd, Benson, NC 27504",
+    "latitude": 35.413914,
+    "longitude": -78.514782
+  },
+  {
+    "name": "Us Cold Storage",
+    "address": "104 Witherington Dr, Covington, TN 38019",
+    "latitude": 35.616181,
+    "longitude": -89.621734
+  },
+  {
+    "name": "United States Cold Storage",
+    "address": "1727 J P Hennessy Dr, La Vergne, TN 37086",
+    "latitude": 36.020168,
+    "longitude": -86.600686
+  },
+  {
+    "name": "United States Cold Storage",
+    "address": "125 Threet Industrial Rd., Smyrna, TN 37167",
+    "latitude": 36.002842,
+    "longitude": -86.531382
+  },
+  {
+    "name": "Interstate Warehousing",
+    "address": "2125 Joe B Jackson Pkwy, Murfreesboro, TN 37127",
+    "latitude": 35.781632,
+    "longitude": -86.359208
+  },
+  {
+    "name": "Americold Logistics Murfreesboro",
+    "address": "2641 Stevenson Dr, Murfreesboro, TN 37127",
+    "latitude": 35.800312,
+    "longitude": -86.390181
+  },
+  {
+    "name": "TForce Logistics - Atlanta",
+    "address": "447 Great SW Pkwy SW, Atlanta, GA 30336",
+    "latitude": 33.745475,
+    "longitude": -84.566209
+  },
+  {
+    "name": "AIT Worldwide Logistics",
+    "address": "3125 Horseshoe Ln c, Charlotte, NC 28208",
+    "latitude": 35.197708,
+    "longitude": -80.929953
+  },
+  {
+    "name": "Chattahoochee Logistics Center",
+    "address": "7055 Campbellton Rd SW, Atlanta, GA 30336",
+    "latitude": 33.693163,
+    "longitude": -84.617233
+  },
+  {
+    "name": "Atlanta Distribution Center",
+    "address": "2823 Anvilblock Rd, Ellenwood, GA 30294",
+    "latitude": 33.632156,
+    "longitude": -84.295475
+  },
+  {
+    "name": "Logistics Pointe Distribution Center",
+    "address": "11922 General Dr, Charlotte, NC 28273",
+    "latitude": 35.110459,
+    "longitude": -80.94096
+  },
+  {
+    "name": "Westinghouse Commerce Center",
+    "address": "2501 Westinghouse Blvd, Charlotte, NC 28273",
+    "latitude": 35.129958,
+    "longitude": -80.946811
+  },
+  {
+    "name": "Creekside Commerce Center",
+    "address": "7045 Logistics Center Dr, Charlotte, NC 28273",
+    "latitude": 35.127533,
+    "longitude": -80.949463
+  },
+  {
+    "name": "Airport Logistics Park",
+    "address": "1922 Old Murfreesboro Rd, Nashville, TN 37217",
+    "latitude": 36.098186,
+    "longitude": -86.655887
+  },
+  {
+    "name": "Propak Logistics",
+    "address": "401 Church St #2300, Nashville, TN 37219",
+    "latitude": 36.163226,
+    "longitude": -86.779006
+  },
+  {
+    "name": "Memphis Logistics",
+    "address": "4655 E Shelby Dr #102, Memphis, TN 38118",
+    "latitude": 35.019964,
+    "longitude": -89.90933
+  },
+  {
+    "name": "TruckPro Distribution Center",
+    "address": "4460 E Holmes Rd, Memphis, TN 38118",
+    "latitude": 35.006815,
+    "longitude": -89.914294
+  },
+  {
+    "name": "UPS Pharmaceutical Logistics",
+    "address": "1900-1998 Danielson Pl, Memphis, TN 38114",
+    "latitude": 35.085608,
+    "longitude": -89.998598
+  },
+  {
+    "name": "Nike North America Logistics Campus",
+    "address": "3100 Frayser Blvd, Memphis, TN 38128",
+    "latitude": 35.223063,
+    "longitude": -89.960249
+  },
+  {
+    "name": "Pfizer Logistics Center",
+    "address": "1855 N Shelby Oaks Dr, Memphis, TN 38134",
+    "latitude": 35.176331,
+    "longitude": -89.856827
+  },
+  {
+    "name": "Americold Logistics Savannah II",
+    "address": "2001 Old River Rd, Bloomingdale, GA 31302",
+    "latitude": 32.117043,
+    "longitude": -81.385383
+  },
+  {
+    "name": "Central warehouse",
+    "address": "200 Leagan Dr, Raleigh, NC 27603",
+    "latitude": 35.727565,
+    "longitude": -78.643549
+  },
+  {
+    "name": "Owens & Minor - Raleigh Distribution Center",
+    "address": "4200 Global St Ste 100, Raleigh, NC 27610",
+    "latitude": 35.7812,
+    "longitude": -78.567211
+  },
+  {
+    "name": "XPO Logistics",
+    "address": "1210 Corporation Pkwy #102, Raleigh, NC 27610",
+    "latitude": 35.795268,
+    "longitude": -78.567362
+  },
+  {
+    "name": "North Carolina Department of Transportation IT Distribution Center",
+    "address": "1529 S Blount St, Raleigh, NC 27603",
+    "latitude": 35.758665,
+    "longitude": -78.636425
+  },
+  {
+    "name": "Louisville Courier-Journal Lyndon Distribution Center",
+    "address": "8000 Warwick Ave, Louisville, KY 40222",
+    "latitude": 38.261579,
+    "longitude": -85.611376
+  },
+  {
+    "name": "GE Appliance Park Logistics Center",
+    "address": "6001 Global Distribution Wy, Louisville, KY 40228",
+    "latitude": 38.171149,
+    "longitude": -85.641898
+  },
+  {
+    "name": "Amazon RIC3 Fulfillment Center",
+    "address": "4949 Commerce Rd, Richmond, VA 23234",
+    "latitude": 37.458511,
+    "longitude": -77.427456
+  },
+  {
+    "name": "Supervalu Distribution Center",
+    "address": "8258 Richfood Rd, Mechanicsville, VA 23116",
+    "latitude": 37.633615,
+    "longitude": -77.402608
+  },
+  {
+    "name": "Richmond UPS Hub",
+    "address": "9601 Coach Rd, Richmond, VA 23237",
+    "latitude": 37.399369,
+    "longitude": -77.411978
+  },
+  {
+    "name": "Academy Logistics Center",
+    "address": "602 Powder Plant Rd, Bessemer, AL 35022",
+    "latitude": 33.385505,
+    "longitude": -87.010238
+  },
+  {
+    "name": "Amazon prime for Gwinnett Fulfillment center",
+    "address": "2255 W Park Pl. Blvd, Stone Mountain, GA 30087",
+    "latitude": 33.813179,
+    "longitude": -84.115158
+  },
+  {
+    "name": "Amazon Fulfillment Center (IXD) - RYY2",
+    "address": "1250 Cassville White Rd, White, GA 30184",
+    "latitude": 34.270828,
+    "longitude": -84.771493
+  },
+  {
+    "name": "CSG1 Amazon Fulfillment Center",
+    "address": "280 Bridgeport Pkwy, Newnan, GA 30263",
+    "latitude": 33.314733,
+    "longitude": -84.783985
+  },
+  {
+    "name": "Amazon Fulfillment Center CHA2",
+    "address": "225 Infinity Dr, Charleston, TN 37310",
+    "latitude": 35.28252,
+    "longitude": -84.812265
+  },
+  {
+    "name": "Amazon GSP3",
+    "address": "402 John Dodd Rd, Spartanburg, SC 29303",
+    "latitude": 35.008076,
+    "longitude": -82.035392
+  },
+  {
+    "name": "Amazon Fulfillment WSC7",
+    "address": "191 Logistics Dr, Cameron, SC 29030",
+    "latitude": 33.453798,
+    "longitude": -80.628361
+  },
+  {
+    "name": "Amazon Delivery Station, DSC4",
+    "address": "7409 Magi Rd, Hanahan, SC 29410",
+    "latitude": 32.949984,
+    "longitude": -80.00825
+  },
+  {
+    "name": "Amazon Fulfillment Center ORF4",
+    "address": "1833 Twin Mls Rd, Virginia Beach, VA 23454",
+    "latitude": 36.782608,
+    "longitude": -76.0274
+  },
+  {
+    "name": "RIC7/RIC1 -Amazon Fulfillment Center",
+    "address": "5000 Commerce Way, Petersburg, VA 23803",
+    "latitude": 37.193985,
+    "longitude": -77.49259
+  },
+  {
+    "name": "Amazon",
+    "address": "7600 Crestwood Blvd, Birmingham, AL 35210",
+    "latitude": 33.532595,
+    "longitude": -86.724559
+  },
+  {
+    "name": "Amazon MEM2",
+    "address": "191 Norfolk Southern Way, Byhalia, MS 38611",
+    "latitude": 34.991759,
+    "longitude": -89.597486
+  },
+  {
+    "name": "Amazon work",
+    "address": "12401 I-30 Frontage Rd, Alexander, AR 72002",
+    "latitude": 34.647145,
+    "longitude": -92.420587
+  },
+  {
+    "name": "Amazon Distribution Outpost",
+    "address": "320 AR-14, Yellville, AR 72687",
+    "latitude": 36.224805,
+    "longitude": -92.678794
+  },
+  {
+    "name": "Walmart Distribution Centers Monroe,Ga",
+    "address": "655 Unisia Dr, Monroe, GA 30655",
+    "latitude": 33.81,
+    "longitude": -83.679381
+  },
+  {
+    "name": "Walmart Distribution Center #6010",
+    "address": "1401 W Baker Hwy, Douglas, GA 31533",
+    "latitude": 31.500606,
+    "longitude": -82.868971
+  },
+  {
+    "name": "Walmart Distribution Center",
+    "address": "385 Callaway Church Rd, LaGrange, GA 30241",
+    "latitude": 33.032998,
+    "longitude": -84.959168
+  },
+  {
+    "name": "Walmart Distribution Center",
+    "address": "200 Walmart Dr, Shelby, NC 28150",
+    "latitude": 35.311568,
+    "longitude": -81.579628
+  },
+  {
+    "name": "Walmart Fulfillment Center",
+    "address": "120 Velocity Way, Shepherdsville, KY 40165",
+    "latitude": 37.969556,
+    "longitude": -85.686669
+  },
+  {
+    "name": "Walmart Distribution Center work",
+    "address": "9305 Pocahontas Trail, Williamsburg, VA 23185",
+    "latitude": 37.201254,
+    "longitude": -76.596575
+  },
+  {
+    "name": "Walmart Distribution Center #7016",
+    "address": "10695 James Madison Hwy, Gordonsville, VA 22942",
+    "latitude": 37.983766,
+    "longitude": -78.201602
+  },
+  {
+    "name": "Walmart DC 6023",
+    "address": "21504 Cox Rd, Sutherland, VA 23885",
+    "latitude": 37.192572,
+    "longitude": -77.538303
+  },
+  {
+    "name": "Walmart Distribution Center #6011",
+    "address": "2200 Manufacturers Blvd NE, Brookhaven, MS 39601",
+    "latitude": 31.611193,
+    "longitude": -90.421845
+  },
+  {
+    "name": "The Home Depot Distribution Center",
+    "address": "2400 GA-155 S, Locust Grove, GA 30248",
+    "latitude": 33.374155,
+    "longitude": -84.184907
+  },
+  {
+    "name": "The Home Depot Distribution Center",
+    "address": "190 Greenwood Industrial Pkwy, McDonough, GA 30253",
+    "latitude": 33.379299,
+    "longitude": -84.16022
+  },
+  {
+    "name": "Home Depot Distribution Center",
+    "address": "315 Greenwood Pl, McDonough, GA 30253",
+    "latitude": 33.386562,
+    "longitude": -84.164943
+  },
+  {
+    "name": "Publix Distribution and Manufacturing Facility",
+    "address": "445 Hurricane Trail, Dacula, GA 30019",
+    "latitude": 33.991293,
+    "longitude": -83.931757
+  },
+  {
+    "name": "Sysco Knoxville",
+    "address": "900 Tennessee Ave, Knoxville, TN 37921",
+    "latitude": 35.986332,
+    "longitude": -83.94502
+  },
+  {
+    "name": "Sysco Nashville",
+    "address": "1 Hermitage Plaza, Nashville, TN 37209",
+    "latitude": 36.180622,
+    "longitude": -86.881859
+  },
+  {
+    "name": "FedEx Ground Chattanooga",
+    "address": "3021 Alton Park Blvd, Chattanooga, TN 37410",
+    "latitude": 35.019773,
+    "longitude": -85.315374
+  },
+  {
+    "name": "Arkansas Warehouse Inc",
+    "address": "7209 Jenny Lind Rd, Fort Smith, AR 72908",
+    "latitude": 35.314951,
+    "longitude": -94.412199
+  },
+  {
+    "name": "M P Warehouse",
+    "address": "7801 Ball Rd, Fort Smith, AR 72908",
+    "latitude": 35.310649,
+    "longitude": -94.389528
+  },
+  {
+    "name": "Owens Corning Warehouse",
+    "address": "5101 Excelsior Drive, Fort Smith, AR 72916",
+    "latitude": 35.298433,
+    "longitude": -94.373696
+  },
+  {
+    "name": "M P Warehouse Inc",
+    "address": "6201 State Line Rd, Fort Smith, AR 72916",
+    "latitude": 35.325781,
+    "longitude": -94.432246
+  },
+  {
+    "name": "Frito-Lay Inc. - Arkansas Warehouse",
+    "address": "2810 Quality Way, Jonesboro, AR 72401",
+    "latitude": 35.814124,
+    "longitude": -90.559873
+  },
+  {
+    "name": "America's Warehouse",
+    "address": "105 County Rd 402, Jonesboro, AR 72404",
+    "latitude": 35.749179,
+    "longitude": -90.690465
+  },
+  {
+    "name": "WKN5 Amazon",
+    "address": "3400 Moore Rd, Jonesboro, AR 72401",
+    "latitude": 35.797262,
+    "longitude": -90.61487
+  },
+  {
+    "name": "Mountain Valley Warehouse",
+    "address": "121 Technology Pl, Hot Springs National Park, AR 71913",
+    "latitude": 34.516986,
+    "longitude": -93.122399
+  },
+  {
+    "name": "AR3A Warehouse - Main",
+    "address": "4000 Abernathy Dr, Texarkana, AR 71854",
+    "latitude": 33.4397,
+    "longitude": -93.999695
+  },
+  {
+    "name": "AR3A Warehouse - Central",
+    "address": "1220 Jim Walter Dr, Texarkana, AR 71854",
+    "latitude": 33.434226,
+    "longitude": -94.001841
+  },
+  {
+    "name": "The Warehouse",
+    "address": "614 E 7th St, Texarkana, AR 71854",
+    "latitude": 33.429592,
+    "longitude": -94.037408
+  },
+  {
+    "name": "AR3A Warehouse - South",
+    "address": "3500 Tennessee Rd, Texarkana, AR 71854",
+    "latitude": 33.415286,
+    "longitude": -94.002984
+  },
+  {
+    "name": "Warehouse",
+    "address": "414 Smith St LOT B, West Monroe, LA 71292",
+    "latitude": 32.485221,
+    "longitude": -92.163136
+  },
+  {
+    "name": "RHM Warehousing & Transportation",
+    "address": "30 E Airline Hwy, Kenner, LA 70062",
+    "latitude": 29.982896,
+    "longitude": -90.273247
+  },
+  {
+    "name": "Crossdocking & Delivery",
+    "address": "755 Airline Dr Ste 300, Kenner, LA 70062",
+    "latitude": 29.981924,
+    "longitude": -90.261857
+  },
+  {
+    "name": "Amazon SSY1, SSD FC",
+    "address": "6000 Mounes St, Elmwood, LA 70123",
+    "latitude": 29.952493,
+    "longitude": -90.198356
+  },
+  {
+    "name": "Ragan & Massey Warehouse #3",
+    "address": "329 Tower Rd, Ponchatoula, LA 70454",
+    "latitude": 30.425344,
+    "longitude": -90.439034
+  },
+  {
+    "name": "Industrial Road Warehouse",
+    "address": "500 Industrial Rd, Murray, KY 42071",
+    "latitude": 36.615566,
+    "longitude": -88.295506
+  },
+  {
+    "name": "Kenlake Warehouse",
+    "address": "81 Spruce St, Murray, KY 42071",
+    "latitude": 36.613893,
+    "longitude": -88.291965
+  },
+  {
+    "name": "Lambs Warehouse",
+    "address": "601 John C Watts Dr, Nicholasville, KY 40356",
+    "latitude": 37.860625,
+    "longitude": -84.577296
+  },
+  {
+    "name": "iDrive Fulfillment",
+    "address": "121 Venture Ct, Nicholasville, KY 40356",
+    "latitude": 37.852775,
+    "longitude": -84.57025
+  },
+  {
+    "name": "WCS Logistics",
+    "address": "188 Brooke Rd, Winchester, VA 22603",
+    "latitude": 39.199122,
+    "longitude": -78.151482
+  },
+  {
+    "name": "Bender Warehouse Co",
+    "address": "660 Brooke Rd, Winchester, VA 22603",
+    "latitude": 39.201038,
+    "longitude": -78.14361
+  },
+  {
+    "name": "Virginia ABC Distribution Center",
+    "address": "7452 Freight Way, Mechanicsville, VA 23111",
+    "latitude": 37.627182,
+    "longitude": -77.360916
+  },
+  {
+    "name": "SanMar Ashland",
+    "address": "10462 Hickory Hill Rd, Ashland, VA 23005",
+    "latitude": 37.807595,
+    "longitude": -77.463172
+  },
+  {
+    "name": "Diversified Distribution Inc",
+    "address": "1507 Joseph Martin Hwy, Martinsville, VA 24112",
+    "latitude": 36.629371,
+    "longitude": -79.877205
+  },
+  {
+    "name": "Keeco",
+    "address": "460 Beaver Creek Dr, Martinsville, VA 24112",
+    "latitude": 36.72478,
+    "longitude": -79.872931
+  },
+  {
+    "name": "Radial",
+    "address": "229 Hollie Dr, Martinsville, VA 24112",
+    "latitude": 36.734534,
+    "longitude": -79.877337
+  },
+  {
+    "name": "Piedmont Warehouse",
+    "address": "301 Trade St, Danville, VA 24541",
+    "latitude": 36.584777,
+    "longitude": -79.422772
+  },
+  {
+    "name": "Container Warehouse, Inc",
+    "address": "3660 Morehead Ave, Ridgeway, VA 24148",
+    "latitude": 36.546535,
+    "longitude": -79.814537
+  },
+  {
+    "name": "Sherwin-Williams Piedmont Distribution Service Center Warehouse",
+    "address": "2727 Salisbury Rd, Statesville, NC 28677",
+    "latitude": 35.759773,
+    "longitude": -80.787552
+  },
+  {
+    "name": "SEAMAN CORPORATION C/O STATESVILLE DIST SERVICES",
+    "address": "2227 Salisbury Rd, Statesville, NC 28677",
+    "latitude": 35.758299,
+    "longitude": -80.821662
+  },
+  {
+    "name": "Corning Distribution Center",
+    "address": "7708 US Hwy 64 Alt W, Tarboro, NC 27886",
+    "latitude": 35.933393,
+    "longitude": -77.643905
+  },
+  {
+    "name": "Amazon",
+    "address": "150 Commerce Center Dr, Tarboro, NC 27886",
+    "latitude": 35.881432,
+    "longitude": -77.582318
+  },
+  {
+    "name": "C&S Lumberton Distribution Center",
+    "address": "121 Cold Storage Rd, Lumberton, NC 28360",
+    "latitude": 34.660284,
+    "longitude": -79.107296
+  },
+  {
+    "name": "WNC6 Amazon warehouse",
+    "address": "1005 Dunn Rd, Fayetteville, NC 28312",
+    "latitude": 35.061726,
+    "longitude": -78.839067
+  },
+  {
+    "name": "Sam's Club Distribution Center",
+    "address": "5085 Dawn Dr, Lumberton, NC 28360",
+    "latitude": 34.670829,
+    "longitude": -79.008448
+  },
+  {
+    "name": "United States Cold Storage",
+    "address": "2901 Kenny Biggs Rd, Lumberton, NC 28358",
+    "latitude": 34.607797,
+    "longitude": -79.042213
+  },
+  {
+    "name": "Chamad Warehouse",
+    "address": "227 Baldwin Ave, Marion, NC 28752",
+    "latitude": 35.678731,
+    "longitude": -81.992936
+  },
+  {
+    "name": "MTC Distribution",
+    "address": "114 Workman St, Conover, NC 28613",
+    "latitude": 35.718468,
+    "longitude": -81.252357
+  },
+  {
+    "name": "Sanford general warehouse",
+    "address": "546 Harvey Faulk Rd, Sanford, NC 27332",
+    "latitude": 35.430165,
+    "longitude": -79.128068
+  },
+  {
+    "name": "TN Dot Foods",
+    "address": "600 Manchester Industrial Pkwy, Manchester, TN 37355",
+    "latitude": 35.452743,
+    "longitude": -86.013047
+  },
+  {
+    "name": "Prescott Bottling-Distributing",
+    "address": "400 S Anderson St, Tullahoma, TN 37388",
+    "latitude": 35.360982,
+    "longitude": -86.202223
+  },
+  {
+    "name": "L. & H. Distributing Company, Inc.",
+    "address": "1309 N Washington St, Tullahoma, TN 37388",
+    "latitude": 35.376347,
+    "longitude": -86.220047
+  },
+  {
+    "name": "Pepsi Beverages Distribution",
+    "address": "308 Cobb Rd, Tullahoma, TN 37388",
+    "latitude": 35.380595,
+    "longitude": -86.169672
+  },
+  {
+    "name": "Tennessee Warehouse & Distribution",
+    "address": "9941 Manchester Hwy, Morrison, TN 37357",
+    "latitude": 35.6132,
+    "longitude": -85.905193
+  },
+  {
+    "name": "R&S Logistics - MT3 Warehouse & 3PL",
+    "address": "4991 Enka Hwy, Morristown, TN 37813",
+    "latitude": 36.151714,
+    "longitude": -83.202312
+  },
+  {
+    "name": "Rich's Foods - Lakeway Distribution",
+    "address": "1820 Sulphur Springs Rd, Morristown, TN 37813",
+    "latitude": 36.190014,
+    "longitude": -83.299086
+  },
+  {
+    "name": "B & B Warehousing & Logistics",
+    "address": "1970 S Economy Rd, Morristown, TN 37813",
+    "latitude": 36.200409,
+    "longitude": -83.319275
+  },
+  {
+    "name": "Iconex Warehouse Shipping/Receiving",
+    "address": "425 Jones-Franklin Rd, Morristown, TN 37813",
+    "latitude": 36.239108,
+    "longitude": -83.217046
+  },
+  {
+    "name": "Clark Distributing Co",
+    "address": "1300 US-51, Dyersburg, TN 38024",
+    "latitude": 36.009477,
+    "longitude": -89.397905
+  },
+  {
+    "name": "Dot Foods Inc",
+    "address": "3200 Burks Pl, Dyersburg, TN 38024",
+    "latitude": 36.073641,
+    "longitude": -89.329214
+  },
+  {
+    "name": "Apex Distribution LLC",
+    "address": "1535 Industrial Rd, Dyersburg, TN 38024",
+    "latitude": 36.050306,
+    "longitude": -89.344668
+  },
+  {
+    "name": "UPS Customer Center",
+    "address": "750 Samaria Bend Rd, Dyersburg, TN 38024",
+    "latitude": 36.012104,
+    "longitude": -89.398437
+  },
+  {
+    "name": "RaceTrac Distribution Center",
+    "address": "100 Riverpoint Road #500, Cartersville, GA 30120",
+    "latitude": 34.1526,
+    "longitude": -84.767958
+  },
+  {
+    "name": "Zep Georgia Distribution Center",
+    "address": "71 Business Pk Ct NW, Cartersville, GA 30121",
+    "latitude": 34.26916,
+    "longitude": -84.83061
+  },
+  {
+    "name": "Spectrum Distribution Center",
+    "address": "276 Sidney Cottingham Way, Douglas, GA 31535",
+    "latitude": 31.481249,
+    "longitude": -82.879129
+  },
+  {
+    "name": "Spectrum Distribution Center",
+    "address": "1525 Pope Dr, Douglas, GA 31535",
+    "latitude": 31.483507,
+    "longitude": -82.873026
+  },
+  {
+    "name": "McLane Southern",
+    "address": "2104 Manufacturers Blvd NE, Brookhaven, MS 39601",
+    "latitude": 31.605592,
+    "longitude": -90.421557
+  },
+  {
+    "name": "ADP Distribution Center",
+    "address": "445 American Wy, Grenada, MS 38901",
+    "latitude": 33.840322,
+    "longitude": -89.826962
+  },
+  {
+    "name": "American Way Distribution Center",
+    "address": "1995 Air Industrial Park Rd, Grenada, MS 38901",
+    "latitude": 33.836101,
+    "longitude": -89.808954
+  },
+  {
+    "name": "Walmart Distribution Center",
+    "address": "3160 LA-743, Opelousas, LA 70570",
+    "latitude": 30.579375,
+    "longitude": -92.028844
+  },
+  {
+    "name": "Lonestar Distribution Inc",
+    "address": "516 Parkway St, Minden, LA 71055",
+    "latitude": 32.612401,
+    "longitude": -93.295064
+  },
+  {
+    "name": "Infinity Global",
+    "address": "1750 S Main St, Danville, VA 24541",
+    "latitude": 36.542819,
+    "longitude": -79.404824
+  },
+  {
+    "name": "Dollar General Distribution Center",
+    "address": "3207 Philpott Rd, South Boston, VA 24592",
+    "latitude": 36.670927,
+    "longitude": -78.946446
+  },
+  {
+    "name": "Amazon SDF1",
+    "address": "1051 S Columbia Ave, Campbellsville, KY 42718",
+    "latitude": 37.325387,
+    "longitude": -85.350332
+  },
+  {
+    "name": "WebstaurantStore Distribution Center",
+    "address": "200 Commerce Dr, Madisonville, KY 42431",
+    "latitude": 37.349154,
+    "longitude": -87.486935
+  },
+  {
+    "name": "Tyson Foods Distribution Center",
+    "address": "4820 E Main St, Russellville, AR 72802",
+    "latitude": 35.260519,
+    "longitude": -93.066286
+  },
+  {
+    "name": "Tyson Foods Russellville Distribution Center",
+    "address": "702 E Main St, Russellville, AR 72801",
+    "latitude": 35.277491,
+    "longitude": -93.123708
+  },
+  {
+    "name": "Gateway of Georgia",
+    "address": "50 Kent Dr NW, Cartersville, GA 30121",
+    "latitude": 34.27663,
+    "longitude": -84.812286
+  },
+  {
+    "name": "Q.E.P Warehouse",
+    "address": "1505 Coronet Dr, Dalton, GA 30720",
+    "latitude": 34.799538,
+    "longitude": -84.968097
+  },
+  {
+    "name": "Shaw 63 Warehouse",
+    "address": "1401 Underwood St, Dalton, GA 30721",
+    "latitude": 34.78465,
+    "longitude": -84.946129
+  },
+  {
+    "name": "Bonded Warehouse",
+    "address": "1000 Derita Rd, Concord, NC 28027",
+    "latitude": 35.397345,
+    "longitude": -80.719151
+  },
+  {
+    "name": "Saddle Creek Logistics",
+    "address": "3985 State Hwy 49, Harrisburg, NC 28075",
+    "latitude": 35.320868,
+    "longitude": -80.638929
+  },
+  {
+    "name": "Amazon warehouse VNC6",
+    "address": "6255 Shumard St, Concord, NC 28027",
+    "latitude": 35.434662,
+    "longitude": -80.682031
+  },
+  {
+    "name": "Weyerhaeuser Distribution",
+    "address": "4525 Stough Rd, Concord, NC 28027",
+    "latitude": 35.355093,
+    "longitude": -80.614031
+  },
+  {
+    "name": "Saddle Creek Logistics Services",
+    "address": "6499 Saddle Creek Ct, Harrisburg, NC 28075",
+    "latitude": 35.320866,
+    "longitude": -80.638125
+  },
+  {
+    "name": "Freightliner Warehouse",
+    "address": "2651 Fairview Dr, Gastonia, NC 28052",
+    "latitude": 35.293463,
+    "longitude": -81.212842
+  },
+  {
+    "name": "Hanesbrands Inc.",
+    "address": "705 Canterbury Rd, Kings Mountain, NC 28086",
+    "latitude": 35.23805,
+    "longitude": -81.310177
+  },
+  {
+    "name": "Avon P & M Warehouse Co",
+    "address": "603 E Main Ave, Gastonia, NC 28054",
+    "latitude": 35.262591,
+    "longitude": -81.172748
+  },
+  {
+    "name": "NGK East Warehouse Distribution Center",
+    "address": "259 Manufacturers Blvd, Mooresville, NC 28115",
+    "latitude": 35.625682,
+    "longitude": -80.777214
+  },
+  {
+    "name": "Warehouse Services",
+    "address": "1420 Donaldson Rd, Greenville, SC 29605",
+    "latitude": 34.790871,
+    "longitude": -82.410027
+  },
+  {
+    "name": "Amazon DTN7 Delivery Station",
+    "address": "342 Mason Rd, La Vergne, TN 37086",
+    "latitude": 36.001123,
+    "longitude": -86.586563
+  },
+  {
+    "name": "Hot Topic & Torrid Warehouse",
+    "address": "6001 Reliance Dr, La Vergne, TN 37086",
+    "latitude": 35.996028,
+    "longitude": -86.603315
+  },
+  {
+    "name": "Red River Warehouse Co",
+    "address": "513 Red River Rd, Gallatin, TN 37066",
+    "latitude": 36.387528,
+    "longitude": -86.457288
+  },
+  {
+    "name": "A B C Technologies-Warehouse",
+    "address": "515 Steam Plant Rd, Gallatin, TN 37066",
+    "latitude": 36.383701,
+    "longitude": -86.429863
+  },
+  {
+    "name": "World Class Distribution Inc",
+    "address": "4040 Scottsville Rd, Franklin, KY 42134",
+    "latitude": 36.713235,
+    "longitude": -86.504154
+  },
+  {
+    "name": "HTI Logistics Corporation",
+    "address": "7200 Riverport, Louisville, KY 40258",
+    "latitude": 38.162117,
+    "longitude": -85.887909
+  },
+  {
+    "name": "DHL",
+    "address": "6901 Riverport Dr, Louisville, KY 40258",
+    "latitude": 38.1648,
+    "longitude": -85.881973
+  },
+  {
+    "name": "Huntington Riverport",
+    "address": "8300 Cane Run Rd, Louisville, KY 40258",
+    "latitude": 38.137666,
+    "longitude": -85.898987
+  },
+  {
+    "name": "Reach Logistics",
+    "address": "2250 Progress Dr, Hebron, KY 41048",
+    "latitude": 39.081399,
+    "longitude": -84.651504
+  },
+  {
+    "name": "Verst Logistics Warehouse Hebron, KY - Global Way",
+    "address": "2140 Global Way, Hebron, KY 41048",
+    "latitude": 39.090668,
+    "longitude": -84.715511
+  },
+  {
+    "name": "Massimo Zanetti Beverage Distribution Center",
+    "address": "1201 Enterprise Dr, Suffolk, VA 23434",
+    "latitude": 36.715183,
+    "longitude": -76.677894
+  },
+  {
+    "name": "Navy Exchange Distribution Center",
+    "address": "1000 Kenyon Ct, Suffolk, VA 23434",
+    "latitude": 36.728207,
+    "longitude": -76.656828
+  },
+  {
+    "name": "Wegmans Virginia Service Center",
+    "address": "9300 Sliding Hill Rd, Ashland, VA 23005",
+    "latitude": 37.710315,
+    "longitude": -77.425338
+  },
+  {
+    "name": "Vitamin Shoppe Distribution Center",
+    "address": "112 The Vitamin Shoppe Way, Ashland, VA 23005",
+    "latitude": 37.785992,
+    "longitude": -77.462654
+  },
+  {
+    "name": "Amazon Sortation Center RIC5",
+    "address": "11600 N Lakeridge Pkwy, Ashland, VA 23005",
+    "latitude": 37.727862,
+    "longitude": -77.458174
+  },
+  {
+    "name": "Community Coffee Distribution Center",
+    "address": "2150 Commercial Dr, Port Allen, LA 70767",
+    "latitude": 30.448719,
+    "longitude": -91.232225
+  },
+  {
+    "name": "Distribution International",
+    "address": "950 Mahaffey Rd, Port Allen, LA 70767",
+    "latitude": 30.437017,
+    "longitude": -91.21063
+  },
+  {
+    "name": "Magnolia Distribution",
+    "address": "1000 Le Blanc Rd, Port Allen, LA 70767",
+    "latitude": 30.441343,
+    "longitude": -91.211501
+  },
+  {
+    "name": "amazon wsp1",
+    "address": "315b S Lincoln St, Lowell, AR 72745",
+    "latitude": 36.248735,
+    "longitude": -94.130783
+  },
+  {
+    "name": "Tyson Distribution Center",
+    "address": "402 E Olrich St, Rogers, AR 72756",
+    "latitude": 36.319204,
+    "longitude": -94.108361
+  },
+  {
+    "name": "Americold Logistics",
+    "address": "515 N Bloomington St, Lowell, AR 72745",
+    "latitude": 36.262888,
+    "longitude": -94.135187
+  },
+  {
+    "name": "Dillard's Fulfillment Center",
+    "address": "600 Carnahan Dr, Maumelle, AR 72113",
+    "latitude": 34.85452,
+    "longitude": -92.395042
+  },
+  {
+    "name": "Tractor Supply Company Distribution Center",
+    "address": "150 Champs Blvd, Maumelle, AR 72113",
+    "latitude": 34.866597,
+    "longitude": -92.384598
+  },
+  {
+    "name": "Ace Hardware Corporate Warehouse",
+    "address": "400 Murphy Dr, Maumelle, AR 72113",
+    "latitude": 34.862242,
+    "longitude": -92.394031
+  },
+  {
+    "name": "Senko USA",
+    "address": "3600 Corporate Dr, Winchester, KY 40391",
+    "latitude": 38.023827,
+    "longitude": -84.187208
+  },
+  {
+    "name": "Westchester Warehouse",
+    "address": "1465 W Lexington Ave, Winchester, KY 40391",
+    "latitude": 38.006361,
+    "longitude": -84.208569
+  },
+  {
+    "name": "Spartan Logistics",
+    "address": "493 Century St, Bowling Green, KY 42101",
+    "latitude": 36.928017,
+    "longitude": -86.515518
+  },
+  {
+    "name": "US Warehousing",
+    "address": "262 Mitch McConnell Way, Bowling Green, KY 42101",
+    "latitude": 36.929966,
+    "longitude": -86.504021
+  },
+  {
+    "name": "US Warehousing Inc",
+    "address": "550 Cal Batsel Rd, Bowling Green, KY 42104",
+    "latitude": 36.926147,
+    "longitude": -86.491867
+  },
+  {
+    "name": "Stryker Logistics, LLC",
+    "address": "308 Dishman Ln, Bowling Green, KY 42101",
+    "latitude": 36.956037,
+    "longitude": -86.48192
+  },
+  {
+    "name": "Amware Logistics Services",
+    "address": "6900 Harbour View Blvd # H, Suffolk, VA 23435",
+    "latitude": 36.88518,
+    "longitude": -76.435422
+  },
+  {
+    "name": "GXO",
+    "address": "1401 Enterprise Dr, Suffolk, VA 23434",
+    "latitude": 36.714946,
+    "longitude": -76.679517
+  },
+  {
+    "name": "TeamOne Logistics, LLC",
+    "address": "1686 General Mouton Ave, Lafayette, LA 70508",
+    "latitude": 30.205615,
+    "longitude": -92.005007
+  },
+  {
+    "name": "Sure Logix LLC",
+    "address": "240C Ridge Rd, Lafayette, LA 70506",
+    "latitude": 30.182742,
+    "longitude": -92.078507
+  },
+  {
+    "name": "Logistics Warehouse",
+    "address": "700 S Fresno St, Fort Smith, AR 72916",
+    "latitude": 35.35144,
+    "longitude": -94.428361
+  },
+  {
+    "name": "Logistics Warehouse",
+    "address": "3009 S 5th St, Fort Smith, AR 72901",
+    "latitude": 35.357044,
+    "longitude": -94.429199
+  },
+  {
+    "name": "Logistics Warehouse",
+    "address": "5615 Old Greenwood Rd, Fort Smith, AR 72903",
+    "latitude": 35.329914,
+    "longitude": -94.384621
+  },
+  {
+    "name": "Logistics Warehouse - Ayers",
+    "address": "3905 Ayers Rd, Fort Smith, AR 72908",
+    "latitude": 35.31015,
+    "longitude": -94.389001
+  },
+  {
+    "name": "Williams Logistics",
+    "address": "622 E President St, Tupelo, MS 38801",
+    "latitude": 34.249055,
+    "longitude": -88.713802
+  },
+  {
+    "name": "StewardSHIP Warehousing & Logistics",
+    "address": "2214B S Green St, Tupelo, MS 38804",
+    "latitude": 34.22564,
+    "longitude": -88.712788
+  },
+  {
+    "name": "Americold Logistics Augusta",
+    "address": "533 Laney Walker Blvd, Augusta, GA 30901",
+    "latitude": 33.454663,
+    "longitude": -81.941718
+  },
+  {
+    "name": "RBW Logistics",
+    "address": "1816 Tobacco Rd, Augusta, GA 30906",
+    "latitude": 33.368521,
+    "longitude": -82.002629
+  },
+  {
+    "name": "RBW Logistics",
+    "address": "1634 Tobacco Rd, Augusta, GA 30906",
+    "latitude": 33.369021,
+    "longitude": -81.978892
+  },
+  {
+    "name": "RBW Logistics",
+    "address": "1425 Lovers Ln, Augusta, GA 30901",
+    "latitude": 33.451629,
+    "longitude": -81.939011
+  },
+  {
+    "name": "RBW Logistics",
+    "address": "1419 Columbia Nitrogen Dr, Augusta, GA 30901",
+    "latitude": 33.449899,
+    "longitude": -81.931086
+  },
+  {
+    "name": "MegaCorp Logistics LLC",
+    "address": "1011 Ashes Dr, Wilmington, NC 28405",
+    "latitude": 34.240799,
+    "longitude": -77.825024
+  },
+  {
+    "name": "East Carolina Bonded Warehouse",
+    "address": "3930 River Rd, Wilmington, NC 28412",
+    "latitude": 34.16289,
+    "longitude": -77.94136
+  },
+  {
+    "name": "Summit Logistics Group",
+    "address": "301 Government Center Dr Ste 100, Wilmington, NC 28403",
+    "latitude": 34.239834,
+    "longitude": -77.868252
   }
 ]
