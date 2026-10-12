@@ -20,7 +20,7 @@
 import { useEffect, useState } from "react";
 import { MapContainer, TileLayer, Marker, Popup, useMap } from "react-leaflet";
 import L from "leaflet";
-import addressArray from "../utils/warehouses_southeast_1200.json";
+import addressArray from "../utils/warehouses_southeast_contacts.json";
 
 import "leaflet/dist/leaflet.css";
 import "../css/mapSearch.css";
@@ -118,6 +118,8 @@ export default function MapSearch({
               <strong>{address.name}</strong>
               <br />
               {address.address}
+              <br />
+              {`ph: ${address.phone}`}
             </Popup>
           </Marker>
         ))}
